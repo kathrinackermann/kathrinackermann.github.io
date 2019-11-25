@@ -11,10 +11,10 @@ redirect_from:
 
 Jun.-Prof. Dr. Kathrin Ackermann
 
-Heidelberg University
-Institute of Political Science
-Bergheimer Straße 58
-D-69115 Heidelberg
+Heidelberg University  
+Institute of Political Science  
+Bergheimer Straße 58  
+D-69115 Heidelberg  
 
 Office: 03.033
 Tel.: +49 (0) 6221 54 2871
