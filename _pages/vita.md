@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Vita"
+title: ""
 permalink: /vita/
 author_profile: true
 redirect_from:
