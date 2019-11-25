@@ -47,7 +47,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="20%">Summer 2018</td>
-<td width="80%">Citizens and Politics (undergraduate level, advanced) [4 hrs.] - <a href="http://kathrinackermann.github.io/files/Seminarplan_Bürger und Politik_SoSe18.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td
+<td width="80%">Citizens and Politics (undergraduate level, advanced) [4 hrs.] - <a href="http://kathrinackermann.github.io/files/Seminarplan_Bürger und Politik_SoSe18.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
 </tr>
 </tbody>
 </table>
