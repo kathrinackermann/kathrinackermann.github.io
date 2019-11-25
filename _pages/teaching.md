@@ -81,6 +81,7 @@ redirect_from:
 <tbody>
 <tr>
 <th class="tg-031e"></th>
+<th class="tg-031e"></th>
 </tr>
 <tr>
 <td width="20%">Summer 2010</td>
