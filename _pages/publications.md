@@ -3,7 +3,11 @@ layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
+redirect_from:
+  - /publications
 ---
+
+{% include base_path %}
 
 <h4>Articles in Peer-Reviewed Journals</h4>
 <table class="tg">
