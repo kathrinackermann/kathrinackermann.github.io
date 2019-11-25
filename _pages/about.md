@@ -1,14 +1,13 @@
 ---
 permalink: /
-title: "Dr. Kathrin Ackermann | Assistant Professor in Political Science | Heidelberg University"
+title: "Welcome to my homepage!"
 excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-### Welcome to my homepage!
+ 
 I am an Assistant Professor at the <a href="https://www.uni-heidelberg.de/politikwissenschaften/" target="_blank" rel="noopener noreferrer">Institute of Political Science</a> at Heidelberg University. Before, I have been Postdoctoral Researcher and Lecturer at the <a href="http://www.goethe-university-frankfurt.de/43358707/fb03" target="_blank" rel="noopener noreferrer">Faculty of Social Sciences</a> at Goethe University Frankfurt and an <a href="http://www.snf.ch/en/funding/careers/early-postdoc-mobility/Pages/default.aspx" target="_blank" rel="noopener noreferrer">SNSF Early Postdoc.Mobility Fellow</a> at the <a href="http://aissr.uva.nl/" target="_blank" rel="noopener noreferrer">University of Amsterdam</a>. I have earned a PhD in Political Science from the <a href="http://www.ipw.unibe.ch/content/index_eng.html" target="_blank" rel="noopener noreferrer">University of Bern</a> (Switzerland) and a BA and MA degree in Politics and Public Administration from the <a href="http://www.polver.uni-konstanz.de/en/department-home/" target="_blank" rel="noopener noreferrer">University of Konstanz</a> (Germany).  
 My research interests include political psychology, political sociology and comparative politics. My work has appeared in <a href="https://journals.sagepub.com/home/nms" target="_blank" rel="noopener noreferrer">New Media & Society</a>, <a href="http://link.springer.com/journal/11109" target="_blank" rel="noopener noreferrer">Political Behavior</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9221" target="_blank" rel="noopener noreferrer">Political Psychology</a>, <a href="https://www.tandfonline.com/toc/fwep20/current" target="_blank" rel="noopener noreferrer">West European Politics</a>, <a href="http://journals.cambridge.org/action/displayJournal?jid=EPR" target="_blank" rel="noopener noreferrer">European Political Science Review</a>, <a href="https://journals.sagepub.com/home/nvs" target="_blank" rel="noopener noreferrer"> Nonprofit and Voluntary Sector Quarterly</a>, <a href="http://www.palgrave-journals.com/cep/index.html" target="_blank" rel="noopener noreferrer">Comparative European Politics</a>, <a href="https://www.tandfonline.com/toc/reus20/current" target="_blank" rel="noopener noreferrer">European Societies</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1662-6370" target="_blank" rel="noopener noreferrer">Swiss Political Science Review</a> and <a href="http://www.pvs.nomos.de/" target="_blank" rel="noopener noreferrer">Politische Vierteljahresschrift</a>.  
 I serve as spokesperson of the Working Group "Elections and Political Attitudes" of the German Political Science Association <a href="https://www.dvpw.de/informationen/information-in-english/">German Political Science Association</a>.
