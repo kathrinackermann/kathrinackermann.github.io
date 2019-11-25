@@ -4,7 +4,7 @@ title: "Vita"
 permalink: /vita/
 author_profile: true
 redirect_from:
-  - /resume
+  - /vita
 ---
 
 {% include base_path %}
