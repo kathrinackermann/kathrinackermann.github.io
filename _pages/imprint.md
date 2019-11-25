@@ -1,7 +1,6 @@
 ---
 permalink: /imprint/
 title: "Imprint/ Impressum"
-modified: 2019-11-25
 redirect_from:
   - /imprint
 ---
