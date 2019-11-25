@@ -10,10 +10,10 @@ redirect_from:
 
 
 <h2>Impressum</h2>
-Dr. Kathrin Ackermann  
-Heidelberg University  
-Institute of Political Science  
-Bergheimer Straße 58  
+Dr. Kathrin Ackermann   
+Heidelberg University   
+Institute of Political Science   
+Bergheimer Straße 58   
 D-69115 Heidelberg  
 
 <a href="mailto:kathrin.ackermann@ipw.uni-heidelberg.de">kathrin.ackermann@ipw.uni-heidelberg.de</a>
