@@ -10,7 +10,8 @@ redirect_from:
 
 
 <h2>Impressum</h2>
-Dr. Kathrin Ackermann   
+Dr. Kathrin Ackermann 
+
 Heidelberg University   
 Institute of Political Science   
 Bergheimer Straße 58   
