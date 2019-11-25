@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Dr. Kathrin Ackermann"
   avatar           : "profile.png"
-  bio              : "Assistant Professor in Political Science"
-  location         : "Heidelberg/ Germany"
+  bio              : "Assistant Professor in Political Science | Heidelberg University"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.de/citations?hl=de&pli=1&user=SRZxTa4AAAAJ"
   email            : "kathrin.ackermann@ipw.uni-heidelberg.de"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Kathrin_Ackermann"
   uri              :
   bitbucket        :
   codepen          :
