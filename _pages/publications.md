@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h4>Articles in Peer-Reviewed Journals</h4>
+<h3>Articles in Peer-Reviewed Journals</h4>
 <table class="tg">
 <tbody>
 <tr>
