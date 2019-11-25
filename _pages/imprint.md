@@ -10,11 +10,11 @@ redirect_from:
 
 
 <h2>Impressum</h2>
-Dr. Kathrin Ackermann
-Heidelberg University
-Institute of Political Science
-Bergheimer Straße 58
-D-69115 Heidelberg
+Dr. Kathrin Ackermann  
+Heidelberg University  
+Institute of Political Science  
+Bergheimer Straße 58  
+D-69115 Heidelberg  
 
 <a href="mailto:kathrin.ackermann@ipw.uni-heidelberg.de">kathrin.ackermann@ipw.uni-heidelberg.de</a>
 <h2></h2>
@@ -22,10 +22,10 @@ D-69115 Heidelberg
 Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten“) innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot“). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung“ oder „Verantwortlicher“ verweisen wir auf die Definitionen im Art. 4 der Datenschutzgrundverordnung (DSGVO).
 <h3 id="dsg-general-controller">Verantwortlicher</h3>
 <span class="tsmcontroller">Ackermann, Kathrin Dr.</span>
-Heidelberg University
-Institute of Political Science
-Bergheimer Straße 58
-D-69115 Heidelberg
+Heidelberg University  
+Institute of Political Science  
+Bergheimer Straße 58  
+D-69115 Heidelberg  
 kathrin.ackermann@ipw.uni-heidelberg.de
 
 <h3 id="dsg-general-datatype">Arten der verarbeiteten Daten:</h3>
