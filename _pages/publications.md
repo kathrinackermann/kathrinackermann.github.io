@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h3>Articles in Peer-Reviewed Journals</h3>
+<h2>Articles in Peer-Reviewed Journals</h2>
 <table class="tg">
 <tbody>
 <tr>
@@ -74,7 +74,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Books</h3>
+<h2>Books</h2>
 <table class="tg">
 <tbody>
 <tr>
@@ -87,7 +87,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Articles in Edited Volumes</h3>
+<h2>Articles in Edited Volumes</h2>
 <table class="tg">
 <tbody>
 <tr>
@@ -120,7 +120,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Book Review</h3>
+<h2>Book Review</h2>
 <table class="tg">
 <tbody>
 <tr>
@@ -129,7 +129,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Degree Theses</h3>
+<h2>Degree Theses</h2>
 <table class="tg">
 <tbody>
 <tr>
