@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Vita"
 permalink: /vita/
 author_profile: true
 redirect_from:
@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Academic Positions
-======
+### Academic Positions
 * since 04/2019:      Assistant Professor, Institute of Political Science, Heidelberg University
 * 04/2018 – 03/2019:  Postdoctoral Researcher and Lecturer, Faculty of Social Sciences, Goethe University Frankfurt
 * 05/2017 – 03/2018:  Postdoctoral Fellow, Amsterdam Institute for Social Science Research (Host: Prof. Dr. Tom van der Meer), University of Amsterdam, Sponsored by a SNSF Early Postdoc.Mobility Grant
@@ -20,8 +19,7 @@ Academic Positions
 * 11/2007 – 12/2011:  Student and Teaching Assistant, Chair of Comparative Politics (Prof. Dr. Markus Freitag), University of Konstanz
   
 
-Education
-======
+### Education
 * PhD in Political Science, University of Bern, 2017
 * M.A. in Politics and Public Administration, University of Konstanz, 2012
 * B.A. in Politics and Public Administration, University of Konstanz, 2010
