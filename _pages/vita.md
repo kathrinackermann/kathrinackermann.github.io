@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Please find my full CV here: CV_04-2019 http://academicpages.github.io/files/paper1.pdf
+
 ### Academic Positions
 * since 04/2019:      Assistant Professor, Institute of Political Science, Heidelberg University
 * 04/2018 – 03/2019:  Postdoctoral Researcher and Lecturer, Faculty of Social Sciences, Goethe University Frankfurt
