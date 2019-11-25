@@ -11,19 +11,19 @@ redirect_from:
 
 My research agenda covers different aspects of **Empirical Democracy Research**. It relates to the fields of Comparative Politics, Political Behavior and Public Opinion Research and draws on theories and approaches from Political Psychology and Political Sociology. I am particularly interested in studying how societal changes and conflicts affect political and social behavior as well as political attitudes and attitudes towards democracy. Empirically, I apply **quantitative methods** and adopt a **comparative perspective** (subnational or cross-national comparison with a focus on Europe). My current research interests involve the following topics:
 
-### 1. Rural-Urban Divides in Politics
+## 1. Rural-Urban Divides in Politics
 In collaboration with Richard Traunmüller (U Mannheim/ GU Frankfurt) and Sigrid Roßteutscher (GU Frankfurt), I study rural-urban divides in German and European politics. We are particularly interested in studying political behavior and attitudes towards democracy.
 
 * Rural-Urban Divide in Germany (with Sigrid Rossteutscher and Richard Traunmüller) [*presented at AK Wahlen 2018, ECPR 2018*]
 * The Rural-Urban Divide in Citizen Discontent (with Richard Traunmüller) [*presented at EPSA 2019*]
 
-### 2. Citizens and Democracy in Times of Societal Change
+## 2. Citizens and Democracy in Times of Societal Change
 I am interested in the way citizens participate in politics and society and how they evaluate the political system and their very own role in this system. Thus, I study civic engagement, aspects of social cohesion, attitudes towards democracy and norms of good citizenship. I analyze how contextual factors (e.g. institutions, social structure, opinion climate) and societal changes (e.g. digitalization, demographic change, polarization) affect civic engagement and attitudes towards democracy.
 
 * Institutions and Citizenship Norms [*presented at MPSA 2017, AK Wahlen 2017*]
 * Personality and Citizenship Norms [*presented at SVPW 2018*]
 
-### 3. Psychology and Politics
+## 3. Psychology and Politics
 Building on my PhD project (see publications), I study how personality relates to political attitudes and behavior of citizens and elites. I am particularly interested in the interaction of personality traits and contextual factors and stimuli.
 
 * Personality and Political Consumerism (with Birte Gundelach) [*presented at ISPP 2015*]
