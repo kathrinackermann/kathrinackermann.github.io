@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h3>Articles in Peer-Reviewed Journals</h4>
+<h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -74,7 +74,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h4>Books</h4>
+<h3>Books</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -87,7 +87,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h4>Articles in Edited Volumes</h4>
+<h3>Articles in Edited Volumes</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -120,7 +120,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h4>Book Review</h4>
+<h3>Book Review</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -129,7 +129,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h4>Degree Theses</h4>
+<h3>Degree Theses</h3>
 <table class="tg">
 <tbody>
 <tr>
