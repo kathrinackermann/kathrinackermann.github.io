@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Jun.-Prof. Dr. Kathrin Ackermann
+JProf. Dr. Kathrin Ackermann
 
 Heidelberg University  
 Institute of Political Science  
