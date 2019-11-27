@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kathrin Ackermann (U Heidelberg)"
+title                    : "JProf. Dr. Kathrin Ackermann"
 title_separator          : "-"
 name                     : &name "Dr. Kathrin Ackermann"
 description              : &description "Kathrin Ackermann - Political Scientist - Assistant Professor U Heidelberg"
@@ -81,8 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jun.-Prof. Dr. 
-                      Kathrin Ackermann"
+  name             : "JProf. Dr. Kathrin Ackermann"
   avatar           : "ka_082016_3.jpg"
   bio              : "Assistant Professor in Political Science | Heidelberg University"
   location         : 
