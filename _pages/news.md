@@ -14,7 +14,7 @@ Join us for the upcoming annual meeting of the DVPW-AK "Wahlen und politische Ei
 [09/01/2020]
 
 ### Invited Talk:
-I have been invited to give a talk on rural-urban divides in politics ("Stadt, Land, Frust? Geographische Unterschiede in polit. Einstellungen und Verhaltensweisen") in the Social Science Colloquium at Heinrich-Heine-Universität Düsseldorf on 07/01/2020. Thanks for the invitation and an inspiring discussion!   
+I have been invited to give a talk on rural-urban divides in politics ("Stadt, Land, Frust? Geographische Unterschiede in politischen Einstellungen und Verhaltensweisen") in the Social Science Colloquium at Heinrich-Heine-Universität Düsseldorf on 07/01/2020. Thanks for the invitation and an inspiring discussion!   
 [09/01/2020]
 
 ### Upcoming Workshop:
