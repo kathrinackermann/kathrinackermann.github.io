@@ -18,7 +18,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="5%">[14]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2019. Predisposed to Volunteer? Personality Traits and Different Forms of Volunteering. <em>Nonprofit and Voluntary Sector Quarterly</em>, online first. <a href="https://doi.org/10.1177/0899764019848484" target="_blank" rel="noopener noreferrer">doi:10.1177/0899764019848484</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2019. Predisposed to Volunteer? Personality Traits and Different Forms of Volunteering. <em>Nonprofit and Voluntary Sector Quarterly</em>, 48(6): 1119–1142. <a href="https://doi.org/10.1177/0899764019848484" target="_blank" rel="noopener noreferrer">doi:10.1177/0899764019848484</a>.</td>
 </tr>
 <tr>
 <td width="5%">[13]</td>
