@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+
+### New project funded:
+Our project "The Rural-Urban Divide in Europe (RUDE)" lead by Sigrid Roßteutscher (GU Frankfurt) receives funding in the NORFACE- programme "Democratic governance in a turbulent age". I am part of the German team together with Sigrid Roßteutscher and Richard Traunmüller (U Mannheim) and we are working together with teams in France (Sonja Zmerli), Spain (Guillem Rico), UK (Chris Claassen) and Switzerland (Markus Freitag). More information can be found here: <https://www.norface.net/program/democratic-governance-in-a-turbulent-age/>.  
+[10/05/2020]
+
+### Workshop postponed:
+The annual meeting of the DVPW-AK "Wahlen und politische Einstellung" has been postponed due to the developments around Coronavirus SARS-CoV-2/COVID-19. New date: 12-13/11/2020. More information can be found here: <https://www.dvpw.de/gliederung/ak/wahlen-und-politische-einstellungen/aktuelles/>.  
+[10/05/2020]
+
 ### Upcoming Workshop:
 Join us for the upcoming annual meeting of the DVPW-AK "Wahlen und politische Einstellung". The workshop will take place at the University of Heidelberg on 28./29. May 2020 and you are invited to submit your proposals until 17. February 2020. More information on workshop and submission: <https://www.dvpw.de/gliederung/ak/wahlen-und-politische-einstellungen/aktuelles/>.  
 [09/01/2020]
