@@ -17,6 +17,14 @@ redirect_from:
 <th class="tg-031e"></th>
 </tr>
 <tr>
+<td width="20%">Summer 2020</td>
+<td width="80%">Comparative Empirical Democracy Research (graduate level) - <a href="http://kathrinackermann.github.io/files/Syllabus_MA_SS2020_v2.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
+</tr>
+<tr>
+<td width="20%">Summer 2020</td>
+<td width="80%">Quantitative Analyses in Participation Research (undergraduate level, advanced) - <a href="http://kathrinackermann.github.io/files/Syllabus_BA_SS2020_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
+</tr>
+<tr>  
 <td width="20%">Winter 2019/2020</td>
 <td width="80%">Research Seminar (graduate level) - <a href="http://kathrinackermann.github.io/files/Seminarplan_Forschungsseminar quant_WS1920_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
 </tr>
