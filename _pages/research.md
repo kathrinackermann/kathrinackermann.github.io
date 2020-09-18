@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+# Research
+
 ---
 
 My research covers different aspects of **Empirical Democracy Research**. It relates to the fields of Comparative Politics, Political Behavior and Public Opinion Research and draws on theories and approaches from Political Psychology and Political Sociology. I am particularly interested in studying how societal changes and conflicts affect political and social behavior as well as political attitudes and attitudes towards democracy. Empirically, I apply **quantitative methods** and adopt a **comparative perspective** (subnational or cross-national comparison with a focus on Western democracies). Below, you find information on my **Research Agenda** and current **Research Projects**.
