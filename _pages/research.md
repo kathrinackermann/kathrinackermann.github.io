@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-\fbox{My research agenda covers different aspects of **Empirical Democracy Research**. It relates to the fields of Comparative Politics, Political Behavior and Public Opinion Research and draws on theories and approaches from Political Psychology and Political Sociology. I am particularly interested in studying how societal changes and conflicts affect political and social behavior as well as political attitudes and attitudes towards democracy. Empirically, I apply **quantitative methods** and adopt a **comparative perspective** (subnational or cross-national comparison with a focus on Europe).} 
+> My research agenda covers different aspects of **Empirical Democracy Research**. It relates to the fields of Comparative Politics, Political Behavior and Public Opinion Research and draws on theories and approaches from Political Psychology and Political Sociology. I am particularly interested in studying how societal changes and conflicts affect political and social behavior as well as political attitudes and attitudes towards democracy. Empirically, I apply **quantitative methods** and adopt a **comparative perspective** (subnational or cross-national comparison with a focus on Europe).
 
 ## Research Agenda
 
