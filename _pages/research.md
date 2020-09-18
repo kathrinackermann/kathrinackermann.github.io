@@ -15,9 +15,8 @@ redirect_from:
 
 ### 1. Rural-Urban Divides in Politics
 In collaboration with Richard Traunmüller (U Mannheim/ GU Frankfurt) and Sigrid Roßteutscher (GU Frankfurt), I study rural-urban divides in German and European politics. We are particularly interested in studying political behavior and attitudes towards democracy.
-
-#### - Rural-Urban Divide in Germany (with Sigrid Rossteutscher and Richard Traunmüller) [*presented at AK Wahlen 2018, ECPR 2018*]
-#### -- The Rural-Urban Divide in Citizen Discontent (with Richard Traunmüller) [*presented at EPSA 2019*]
+* Rural-Urban Divide in Germany (with Sigrid Rossteutscher and Richard Traunmüller) [*presented at AK Wahlen 2018, ECPR 2018*]
+* The Rural-Urban Divide in Citizen Discontent (with Richard Traunmüller) [*presented at EPSA 2019*]
 
 ### 2. Citizens and Democracy in Times of Societal Change
 I am interested in the way citizens participate in politics and society and how they evaluate the political system and their very own role in this system. Thus, I study civic engagement, aspects of social cohesion, attitudes towards democracy and norms of good citizenship. I analyze how contextual factors (e.g. institutions, social structure, opinion climate) and societal changes (e.g. digitalization, demographic change, polarization) affect civic engagement and attitudes towards democracy.
