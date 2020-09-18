@@ -13,8 +13,13 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[16]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2020. Psychology of Political
+Consumerism - Personality Traits and the Participation in Boycott and Buycott. <em>International Political Science Review</em>, forthcoming.</td>
+</tr>
+<tr>
 <td width="5%">[15]</td>
-<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2019. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies <em>European Societies</em>, 22(3): 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a>.</td>
+<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2020. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies. <em>European Societies</em>, 22(3): 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a>.</td>
 </tr>
 <tr>
 <td width="5%">[14]</td>
