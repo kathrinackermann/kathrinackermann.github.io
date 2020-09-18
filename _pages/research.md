@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Research
 
 ---
 
@@ -45,15 +44,15 @@ From a methodological perspective, I am particularly interested in Survey Resear
 ## Research Projects
 
 ### The Rural-Urban Divide in Europe (01.01.2021 - 31.12.2023)
-**Funding Scheme:** NORFACE ("Democratic Governance in a Turbulent Age" Research Programme)  
-**More information:** https://www.fb03.uni-frankfurt.de/67808294/InFER_Projects
+*Funding Scheme:* NORFACE ("Democratic Governance in a Turbulent Age" Research Programme)  
+*More information:* https://www.fb03.uni-frankfurt.de/67808294/InFER_Projects
 
 ### Blackbox Sustainability (15.09.2020 - 14.09.2023)
-**Funding Scheme:** Excellence Strategy U Heidelberg (Field of Focus 4 "Regulation and Self-Regulation")
+*Funding Scheme:* Excellence Strategy U Heidelberg (Field of Focus 4 "Regulation and Self-Regulation")
 
 ### Intergenerational Transmission of Citizenship Norms (01.10.2020 - 31.12.2020)
-**Funding Scheme:** Excellence Strategy U Heidelberg (Flagship Initiative "Transforming Cultural Heritage")
+*Funding Scheme:* Excellence Strategy U Heidelberg (Flagship Initiative "Transforming Cultural Heritage")
 
 ### Citizenship Norms Revisited - Concept and Conditions (01.05.2017 - 31.03.2018 - completed)
-**Funding Scheme:** SNSF Early Postdoc.Mobility Grant  
-**More information:** http://p3.snf.ch/Project-172236
+*Funding Scheme:* SNSF Early Postdoc.Mobility Grant  
+*More information:* http://p3.snf.ch/Project-172236
