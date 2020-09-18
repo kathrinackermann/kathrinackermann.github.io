@@ -40,6 +40,7 @@ From a methodological perspective, I am particularly interested in Survey Resear
 * Left-right scale as a common space for political parties (with Tom van der Meer and Huib Pellikaan)
 * Measuring Citizenship Norms Using Experimental Approaches
 
+---
 
 ## Research Projects
 
