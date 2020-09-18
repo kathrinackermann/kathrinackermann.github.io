@@ -14,7 +14,7 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[15]</td>
-<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2019. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies <em>European Societies</em>, online first. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a>.</td>
+<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2019. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies <em>European Societies</em>, 22(3): 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a>.</td>
 </tr>
 <tr>
 <td width="5%">[14]</td>
