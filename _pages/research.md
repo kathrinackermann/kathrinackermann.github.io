@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+fontsize: 11pt
 permalink: /research/
 author_profile: true
 redirect_from:
