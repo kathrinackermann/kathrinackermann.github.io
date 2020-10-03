@@ -19,7 +19,7 @@ Consumerism - Personality Traits and the Participation in Boycott and Buycott. <
 </tr>
 <tr>
 <td width="5%">[15]</td>
-<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2020. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies. <em>European Societies</em>, 22(3): 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a>.</td>
+<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2020. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies. <em>European Societies</em>, 22(3): 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a> <a href="https://www.defacto.expert/2019/10/30/surfen-um-zu-helfen-wie-die-internetnutzung-soziale-ungleichheiten-ausgleicht/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
 </tr>
 <tr>
 <td width="5%">[14]</td>
