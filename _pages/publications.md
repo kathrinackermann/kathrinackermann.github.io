@@ -14,7 +14,7 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[16]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2020. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, online first.<a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2020. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, online first. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.</td>
 </tr>
 <tr>
 <td width="5%">[15]</td>
