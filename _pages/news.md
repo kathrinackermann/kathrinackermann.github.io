@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+### Invited Talk:
+I have been invited to give a talk on citizenship norms ("The Activation on Citizenship Norms") in the B-Colloquium at the Mannheimer Zentrum für Europäische Sozialforschung (MZES) on 26/10/2020. Thanks for the invitation and an inspiring discussion!   
+[02/11/2020]
+
 ### Workshop moved online:
 The annual meeting of the DVPW-AK "Wahlen und politische Einstellung" will take place as a virtual meeting on 12 and 13 November 2020. More information can be found here: <https://www.dvpw.de/gliederung/ak/wahlen-und-politische-einstellungen/aktuelles/>.  
 [18/10/2020]
