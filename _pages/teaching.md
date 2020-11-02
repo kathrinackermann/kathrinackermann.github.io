@@ -18,11 +18,11 @@ redirect_from:
 </tr>
 <tr>
 <td width="20%">Winter 2020/2021</td>
-<td width="80%">Research Seminar (MA Level)</td>
+<td width="80%">Research Seminar (MA Level)- <a href="http://kathrinackermann.github.io/files/Seminarplan_Forschungsseminar quant_WS20_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
 </tr>
 <tr>  
 <td width="20%">Winter 2020/2021</td>
-<td width="80%"> Social Structure and Politics (BA Level, advanced)</td>
+<td width="80%"> Social Structure and Politics (BA Level, advanced)- <a href="http://kathrinackermann.github.io/files/Syllabus_BA_WS20_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
 </tr>
 <tr>  
 <td width="20%">Summer 2020</td>
