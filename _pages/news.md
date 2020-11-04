@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### Invited Talk:
+I have been invited to give a talk on narcissism and populism ("Me, myself and I - Narcissism and Populism") in research seminar of the Center for Research on Prejudice at the University of Warsaw today. It could not have been more timely... Thanks for the invitation and for lots of food for thought!   
+[04/11/2020]
+
+### Invited Talk:
 I have been invited to give a talk on citizenship norms ("The Activation on Citizenship Norms") in the B-Colloquium at the Mannheimer Zentrum für Europäische Sozialforschung (MZES) on 26/10/2020. Thanks for the invitation and an inspiring discussion!   
 [02/11/2020]
 
