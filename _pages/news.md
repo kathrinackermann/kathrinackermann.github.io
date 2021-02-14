@@ -10,6 +10,18 @@ redirect_from:
 {% include base_path %}
 
 ### Invited Talk:
+I will give an talk on citizenship norms ("The Activation on Citizenship Norms") at the Freie Universität Berlin (Arbeitsstelle Politische Soziologie der Bundesrepublik Deutschland) on 18/02/2021. Thanks for the invitation - I am looking forward to the discussion!   
+[14/02/2021]
+
+### Conference Presentation:
+I have presented my paper "The Activation on Citizenship Norms" at this year's virtual Annual Conference of the Swiss Political Science Association on 04/02/2021.   
+[14/02/2021]
+
+### Conference Presentation:
+I have presented our paper "Voting in the Echo Chamber? Patterns of political online activities and voting behavior in Switzerland" (joint work with Isabelle Stadelmann-Steffen) at the authors' conference of the Special Issue "Swiss Elections 2019" (to be published with Swiss Political Science Review) on 29/01/2021. 
+[14/02/2021]
+
+### Invited Talk:
 I have been invited to give a talk on narcissism and populism ("Me, myself and I - Narcissism and Populism") in research seminar of the Center for Research on Prejudice at the University of Warsaw today. It could not have been more timely... Thanks for the invitation and for lots of food for thought!   
 [04/11/2020]
 
