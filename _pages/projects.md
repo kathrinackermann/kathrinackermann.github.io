@@ -30,7 +30,7 @@ The project examines whether and how urban-rural residency is related to divides
 ### Blackbox Sustainability
 *Funding Period:* 15.09.2020 - 14.09.2023  
 *Funding Scheme:* Excellence Strategy (EXU, U Heidelberg Field of Focus 4 "Regulation and Self-Regulation")  
-*Project Team:* Kathrin Ackermann (PI), Jan Rummel (PI), Nils Brandenstein, Isabelle Neumann, Alina Reissenberger, Franziska Scholl
+*Project Team:* Kathrin Ackermann (PI), Jan Rummel (PI), Nils Brandenstein, Isabelle Neumann, Alina Reissenberger, Franziska Scholl  
 *Short Summary:*   
 The aim of the interdisciplinary project is to integrate disciplinary approaches to explain ecologically sustainable behavior. The project combines individual explanatory approaches from the behavioral sciences, which point, for example, to a pronounced intention-behavior gap, with findings on the influence of contextual conditions, such as policy design. The relevance of the influencing factors and their interaction is first assessed by machine learning methods using survey data. Subsequent experiments test the mechanisms of action.  
 *More information:* [https://www.uni-heidelberg.de/en/node/31434](https://www.uni-heidelberg.de/en/node/31434)
