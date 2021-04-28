@@ -4,3 +4,7 @@
 - Upload files: files/
 - Upload immages: images/
 - Configuration of entire website (address, layout, etc.): _config.yml
+- Include pictures on page: 
+     ![image](http://kathrinackermann.github.io/images/ka_082016_3.jpg)
+     <img src="http://kathrinackermann.github.io/images/ka_082016_3.jpg" width="200">
+- Commenting stuff out in Markdown: <!--- xxx --->
