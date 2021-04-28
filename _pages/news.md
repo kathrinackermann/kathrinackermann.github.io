@@ -42,7 +42,7 @@ Our paper on the link between personality traits and political consumerism (co-a
 [18/10/2020]
 
 ### Two new projects funded:
-Two new projects have recently received founding within the Excellence Strategy of Heidelberg University.  
+Two new projects have recently received funding within the Excellence Strategy of Heidelberg University.  
 
 - Intergenerational Transmission of Citizenship Norms (01.10.2020 - 31.12.2020) funded by the Flagship Initiative “Transforming Cultural Heritage”  
 - Blackbox Sustainability (15.09.2020 - 14.09.2023) funded by Field of Focus 4 “Regulation and Self-Regulation” (together with Jan Rummel, Institute of Psychology)  
