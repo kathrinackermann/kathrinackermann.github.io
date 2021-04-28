@@ -25,16 +25,15 @@ I have been involved in a number of **externally funded research projects**. Bel
 
 ### Blackbox Sustainability (15.09.2020 - 14.09.2023)
 *Funding Scheme:* Excellence Strategy U Heidelberg (Field of Focus 4 "Regulation and Self-Regulation")
-
-
-
-
+  
+  
+  
 ## Completed Research Projects
 
 ### Intergenerational Transmission of Citizenship Norms
 *Funding Period:* 01.10.2020 - 31.12.2020  
 *Funding Scheme:* Excellence Strategy (EXU, U Heidelberg Flagship Initiative "Transforming Cultural Heritage")  
-*Short Summary:* 
+*Short Summary:*   
 The research project is dedicated to citizenship norms and their intergenerational transmission. It makes an important contribution to the understanding of norms as essential aspects of social cohesion and an intangible cultural heritage of a society. The research project focuses on the collection and analysis of survey data by means of a representative online survey.
 
 ### Citizenship Norms Revisited - Concept and Conditions
