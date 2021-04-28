@@ -10,6 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ### Invited Talk:
+I have been invited to give a talk on the rural-urban divide in political participation ("Left Behind and Left Unheard? Exploring the Rural-Urban Divide in Non-Electoral Political Participation Across European Societies") in the CIS-Colloquium at University of Zurich/ ETH Zurich on 22/04/2021. Thanks for the invitation and an inspiring discussion!   
+[28/04/2021]
+
+### Invited Talk:
 I will give an talk on citizenship norms ("The Activation on Citizenship Norms") at the Freie Universität Berlin (Arbeitsstelle Politische Soziologie der Bundesrepublik Deutschland) on 18/02/2021. Thanks for the invitation - I am looking forward to the discussion!   
 [14/02/2021]
 
