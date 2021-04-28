@@ -1,0 +1,6 @@
+- Adding new subpages: _data/navigation.yml
+- Costumize footer: _includes/footer/custom.html
+- Changing content: _pages/
+- Upload files: files/
+- Upload immages: images/
+- Configuration of entire website (address, layout, etc.): _config.yml
