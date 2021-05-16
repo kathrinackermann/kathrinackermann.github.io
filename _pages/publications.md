@@ -13,6 +13,10 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[17]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>, Daniela Braun, Matthias Fatke and Nayla Fawzi. 2021. Direct democracy, political support and populism - attitudinal patterns in the German Bundesländer.<em> Regional & Federal Studies</em>, online first. <a href="https://doi.org/10.1080/13597566.2021.1919876" target="_blank" rel="noopener noreferrer">doi:10.1080/13597566.2021.1919876</a>.</td>
+</tr>
+<tr>
 <td width="5%">[16]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2020. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, online first. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.</td>
 </tr>
