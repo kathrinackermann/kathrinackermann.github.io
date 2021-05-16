@@ -26,7 +26,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="5%">[14]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2019. Predisposed to Volunteer? Personality Traits and Different Forms of Volunteering. <em>Nonprofit and Voluntary Sector Quarterly</em>, 48(6): 1119–1142. <a href="https://doi.org/10.1177/0899764019848484" target="_blank" rel="noopener noreferrer">doi:10.1177/0899764019848484</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2019. Predisposed to Volunteer? Personality Traits and Different Forms of Volunteering. <em>Nonprofit and Voluntary Sector Quarterly</em>, 48(6): 1119–1142. <a href="https://doi.org/10.1177/0899764019848484" target="_blank" rel="noopener noreferrer">doi:10.1177/0899764019848484</a>. <a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
 </tr>
 <tr>
 <td width="5%">[13]</td>
@@ -34,7 +34,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="5%">[12]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>, Eros Zampieri and Markus Freitag. 2018. Personality and Voting for a Right‐Wing Populist Party – Evidence from Switzerland. <em>Swiss Political Science Review</em>, 24(4): 545-564. <a href="https://doi.org/10.1111/spsr.12330" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12330</a> <a href="https://www.defacto.expert/2018/12/17/stimmabgabe-charakterfrage/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>, Eros Zampieri and Markus Freitag. 2018. Personality and Voting for a Right‐Wing Populist Party – Evidence from Switzerland. <em>Swiss Political Science Review</em>, 24(4): 545-564. <a href="https://doi.org/10.1111/spsr.12330" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12330</a> <a href="https://www.defacto.expert/2019/10/30/surfen-um-zu-helfen-wie-die-internetnutzung-soziale-ungleichheiten-ausgleicht/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
 </tr>
 <tr>
 <td width="5%">[11]</td>
