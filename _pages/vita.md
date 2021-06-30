@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my full CV here: [CV_Ackermann_09-2020](http://kathrinackermann.github.io/files/CV_Ackermann_180920.pdf)
+Please find my full CV here: [CV_Ackermann_06-2021](http://kathrinackermann.github.io/files/CV_Ackermann_300621.pdf)
 
 ### Academic Positions
 * since 04/2019:      Assistant Professor (no tenure-track), Institute of Political Science, Heidelberg University
