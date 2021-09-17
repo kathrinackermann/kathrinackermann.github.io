@@ -9,6 +9,32 @@ redirect_from:
 
 {% include base_path %}
 
+### New project funded:
+A new project has recently received funding within the Excellence Strategy of Heidelberg University:    
+"Experienced solidarity: values, motives and practices in caring communities and social volunteering (EXPSOLIDARITY)" (01/10/2020 - 30/09/2023) funded by Field of Focus 4 “Regulation and Self-Regulation” (together with Stefanie Wiloth, Institute of Gerontology, and Annette Haußmann, Institute of Theology)  
+I am looking forward to working on this new project. Watch this space for updates and results.  
+[17/09/2021]
+
+### Roundtable:
+I had the pleasure to discuss about "Political Participation during the Pandemic" with Sigrid Baringhorst, Oskar W. Gabriel and Swen Hutter at the Scientific Convention of the German Political Science Association (DVPW) on 15/09/2021. Thanks to the Section "Political Sociology" for inviting me.   
+[17/09/2021]
+
+### Conference Panels:
+Together with Sigrid Roßteutscher, I have organized and chaired two panels on "Political Conflicts in Times of Uncertainty and Change" at the Scientific Convention of the German Political Science Association (DVPW) on 15/09/2021. Thanks to all participants for their interesting contributions.   
+[17/09/2021]
+
+### Conference Presentation:
+I have presented my paper "The Activation on Citizenship Norms" at this year's virtual Annual Meeting of the European Political Science Association (EPSA) on 25/06/2021.   
+[17/09/2021]
+
+### Online workshop:
+The annual meeting of the DVPW-AK "Wahlen und politische Einstellungen" took place as a virtual meeting on 20 and 21 May 2021. More information can be found here: <https://www.dvpw.de/gliederung/ak/wahlen-und-politische-einstellungen/aktuelles/>.  
+[17/09/2021]
+
+### New publication:
+Our paper "Direct democracy, political support and populism–attitudinal patterns in the German Bundesländer" (co-authored with Daniela Braun, Matthias Fatke and Nayla Fawzi) has been published online first with *Regional and Federal Studies*: <https://www.tandfonline.com/doi/full/10.1080/13597566.2021.1919876>
+[17/09/2021]
+
 ### Invited Talk:
 I have been invited to give a talk on the rural-urban divide in political participation ("Left Behind and Left Unheard? Exploring the Rural-Urban Divide in Non-Electoral Political Participation Across European Societies") in the CIS-Colloquium at University of Zurich/ ETH Zurich on 22/04/2021. Thanks for the invitation and an inspiring discussion!   
 [28/04/2021]
@@ -34,7 +60,7 @@ I have been invited to give a talk on citizenship norms ("The Activation on Citi
 [02/11/2020]
 
 ### Workshop moved online:
-The annual meeting of the DVPW-AK "Wahlen und politische Einstellung" will take place as a virtual meeting on 12 and 13 November 2020. More information can be found here: <https://www.dvpw.de/gliederung/ak/wahlen-und-politische-einstellungen/aktuelles/>.  
+The annual meeting of the DVPW-AK "Wahlen und politische Einstellungen" will take place as a virtual meeting on 12 and 13 November 2020. More information can be found here: <https://www.dvpw.de/gliederung/ak/wahlen-und-politische-einstellungen/aktuelles/>.  
 [18/10/2020]
 
 ### New publication:
