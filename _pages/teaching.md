@@ -17,6 +17,10 @@ redirect_from:
 <th class="tg-031e"></th>
 </tr>
 <tr>
+<td width="20%">Winter 2018/19</td>
+<td width="80%">Social Capital Research - Quantitative Application (BA Level) [4 hrs.] - <a href="http://kathrinackermann.github.io/files/Syllabus_Sozialkapital_WS1819_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
+</tr>
+<tr>
 <td width="20%">Winter 2021/2022</td>
 <td width="80%">Research Seminar (MA Level)</td> 
 </tr>
