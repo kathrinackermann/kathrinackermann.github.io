@@ -26,7 +26,7 @@ redirect_from:
 </tr>
 <tr>  
  <td width="20%">Summer 2021</td>
-<td width="80%">Comparative Analysis of Political Behavior and Attitudes (MA Level) - <a href="http://kathrinackermann.github.io/files/Seminarplan_Wahlforschung_SS2021_v2.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
+<td width="80%">Comparative Analysis of Political Behavior and Attitudes (MA Level) - <a href="http://kathrinackermann.github.io/files/Syllabus_MA_SS2021_v1.pdf.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
 </tr>
 <tr>  
 <td width="20%">Summer 2021</td>
@@ -75,7 +75,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="20%">Winter 2018/19</td>
-<td width="80%">Social Capital Research - Quantitative Application (BA Level, advanced) [4 hrs.] - <a href="http://kathrinackermann.github.io/files/Syllabus_Sozialkapital_WS1819_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
+<td width="80%">Social Capital Research - Quantitative Application (BA Level) [4 hrs.] - <a href="http://kathrinackermann.github.io/files/Syllabus_Sozialkapital_WS1819_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
 </tr>
 <tr>
 <td width="20%">Summer 2018</td>
