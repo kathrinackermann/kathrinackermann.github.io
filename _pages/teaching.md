@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<h3>Heidelberg  University</h3>
+<h3>Goethe University Frankfurt</h3>
 <table class="tg">
 <tbody>
 <tr>
