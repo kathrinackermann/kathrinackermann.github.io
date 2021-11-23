@@ -26,7 +26,7 @@ redirect_from:
 </tr>
 <tr>  
  <td width="20%">Summer 2021</td>
-<td width="80%">Comparative Analysis of Political Behavior and Attitudes (MA Level) - <a href="http://kathrinackermann.github.io/files/Syllabus_MA_SS2021_v1.pdf.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
+<td width="80%">Comparative Analysis of Political Behavior and Attitudes (MA Level) - <a href="http://kathrinackermann.github.io/files/Syllabus_MA_SS2021_v1.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
 </tr>
 <tr>  
 <td width="20%">Summer 2021</td>
