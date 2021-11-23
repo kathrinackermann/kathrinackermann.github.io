@@ -18,7 +18,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="20%">Winter 2021/2022</td>
-<td width="80%">Research Seminar (MA Level)/a></td> 
+<td width="80%">Research Seminar (MA Level)></td> 
 </tr>
 <tr>  
 <td width="20%">Winter 2021/2022</td>
