@@ -17,6 +17,22 @@ redirect_from:
 <th class="tg-031e"></th>
 </tr>
 <tr>
+<td width="20%">Winter 2021/2022</td>
+<td width="80%">Research Seminar (MA Level)/a></td> 
+</tr>
+<tr>  
+<td width="20%">Winter 2021/2022</td>
+<td width="80%">Populism in Germany and Europe (BA Level, advanced) - <a href="http://kathrinackermann.github.io/files/Syllabus_BA_WS2122_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
+</tr>
+<tr>  
+ <td width="20%">Summer 2021</td>
+<td width="80%">Comparative Analysis of Political Behavior and Attitudes (MA Level) - <a href="http://kathrinackermann.github.io/files/Syllabus_MA_SS2019_final.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
+</tr>
+<tr>  
+<td width="20%">Summer 2021</td>
+<td width="80%"> Social Structure and Politics (BA Level, advanced)- <a href="http://kathrinackermann.github.io/files/Syllabus_BA_WS20_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td>
+</tr>
+<tr>   
 <td width="20%">Winter 2020/2021</td>
 <td width="80%">Research Seminar (MA Level)- <a href="http://kathrinackermann.github.io/files/Seminarplan_Forschungsseminar quant_WS20_webpage.pdf" target="_blank" rel="noopener noreferrer">Syllabus</a></td> 
 </tr>
