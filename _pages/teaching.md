@@ -15,7 +15,6 @@ redirect_from:
 <tr>
 <th class="tg-031e"></th>
 <th class="tg-031e"></th>
-</tr>
 <tr>
 <td width="20%">Winter 2021/2022</td>
 <td width="80%">Research Seminar (MA Level)</td> 
