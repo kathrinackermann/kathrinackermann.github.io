@@ -11,7 +11,7 @@ redirect_from:
 
 <h3>Heidelberg University</h3>
 <table class="tg">
-<tbody>
+</tr>
 <tr>
 <th class="tg-031e"></th>
 <th class="tg-031e"></th>
