@@ -99,8 +99,12 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<td width="5%">[7]</td>
+ <td width="5%">[7]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong> and Markus Freitag. 2019. Die Psychologie des Regierens. Persönlichkeitspsychologische Perspektiven auf das Verhalten politischer Eliten. In <em>Blackbox Exekutive. Regierungslehre in der Schweiz</em>, Adrian Ritz, Theo Haldemann and Fritz Sager (eds.), 451-466. Basel: NZZ Libro.</td>
+</tr>
+<tr>
+<td width="5%">[7]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>, Angelika Vetter and Simon Stocker. 2021. Beteiligungspolitik unter Grün-Schwarz: Kontinuität und Wandel. In <em>Kiwi im Südwesten. Eine Bilanz der zweiten Regierung Kretschmann 2016-2021</em>, Felix Hörisch and Stefan Wurster (eds.), 405-445. Wiesbaden: Springer VS.</td>
 </tr>
 <tr>
 <td width="5%">[6]</td>
