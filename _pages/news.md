@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+### New publication:
+Our chapter on participatory politics in Baden-Württemberg has just been published:  
+Ackermann, Kathrin, Angelika Vetter und Simon Stocker. 2021. Beteiligungspolitik unter Grün-Schwarz: Kontinuität und Wandel. In *Kiwi im Südwesten. Eine Bilanz der zweiten Regierung Kretschmann 2016-2021*, Felix Hörisch und Stefan Wurster (Hrsg.), 405-445. Wiesbaden: Springer VS. <https://link.springer.com/chapter/10.1007/978-3-658-34991-2_16>
+[09/12/2021]
+
 ### New project funded:
 A new project has recently received funding within the Excellence Strategy of Heidelberg University:    
 "Experienced solidarity: values, motives and practices in caring communities and social volunteering (EXPSOLIDARITY)" (01/10/2020 - 30/09/2023) funded by Field of Focus 4 “Regulation and Self-Regulation” (together with Stefanie Wiloth, Institute of Gerontology, and Annette Haußmann, Institute of Theology)  
@@ -21,6 +26,10 @@ I had the pleasure to discuss about "Political Participation during the Pandemic
 
 ### Conference Panels:
 Together with Sigrid Roßteutscher, I have organized and chaired two panels on "Political Conflicts in Times of Uncertainty and Change" at the Scientific Convention of the German Political Science Association (DVPW) on 15/09/2021. Thanks to all participants for their interesting contributions.   
+[17/09/2021]
+
+### Conference Presentation:
+I have presented our paper "The Rural-Urban Divide in Citizen Discontent" (joint work with Richard Traunmüller and Sigrid Roßteutscher) at World Congress of the International Political Science Association (virtual), 13/07/2021.     
 [17/09/2021]
 
 ### Conference Presentation:
