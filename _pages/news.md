@@ -11,7 +11,7 @@ redirect_from:
 
 ### New publication:
 Our chapter on participatory politics in Baden-Württemberg has just been published:  
-Ackermann, Kathrin, Angelika Vetter und Simon Stocker. 2021. Beteiligungspolitik unter Grün-Schwarz: Kontinuität und Wandel. In *Kiwi im Südwesten. Eine Bilanz der zweiten Regierung Kretschmann 2016-2021*, Felix Hörisch und Stefan Wurster (Hrsg.), 405-445. Wiesbaden: Springer VS. <https://link.springer.com/chapter/10.1007/978-3-658-34991-2_16>
+Ackermann, Kathrin, Angelika Vetter und Simon Stocker. 2021. Beteiligungspolitik unter Grün-Schwarz: Kontinuität und Wandel. In *Kiwi im Südwesten. Eine Bilanz der zweiten Regierung Kretschmann 2016-2021*, Felix Hörisch und Stefan Wurster (Hrsg.), 405-445. Wiesbaden: Springer VS. <https://link.springer.com/chapter/10.1007/978-3-658-34991-2_16>  
 [09/12/2021]
 
 ### New project funded:
