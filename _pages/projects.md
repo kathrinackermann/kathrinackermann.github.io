@@ -19,13 +19,20 @@ I have been involved in a number of **externally funded research projects**. Bel
 
 ## Ongoing Research Projects
 
-### The Rural-Urban Divide in Europe
+### The Rural-Urban Divide in Europe (RUDE)
 *Funding Period:* 01.01.2021 - 31.12.2023  
 *Funding Scheme:* NORFACE ("Democratic Governance in a Turbulent Age" Research Programme)  
 *Project Team:* Sigrid Roßteutscher (GU Frankfurt – Teamleader, PI), Richard Traunmüller (U Mannheim), Kathrin Ackermann (U Heidelberg), Sascha Göbel (GU Frankfurt)  
 *Short Summary:*   
 The project examines whether and how urban-rural residency is related to divides in legitimacy beliefs, social identities, perceptions of injustice and threat, political and social attitudes and political behavior of European citizens. It deals with shifting identities and their consequences for democratic governance and political representation and also examines the role of globalization.  
 *More information:* [https://www.fb03.uni-frankfurt.de/67808294/InFER_Projects](https://www.fb03.uni-frankfurt.de/67808294/InFER_Projects)
+
+### Experienced solidarity: values, motives and practices in caring communities and social volunteering (EXPSOLIDARITY)
+*Funding Period:* 01.10.2021 - 30.09.2023  
+*Funding Scheme:* Excellence Strategy (EXU, U Heidelberg Field of Focus 4 "Regulation and Self-Regulation")  
+*Project Team:* Stefanie Wiloth (PI), Kathrin Ackermann (PI), Annette Haußmann (PI), Jonathan Mylius (WP Quantitative Study)  
+*Short Summary:*   
+The project locates the concept of Caring Communities as a social innovation within the broader concept of social volunteering. It aims to investigate self- and group-regulatory processes at the level of institutional actors, volunteers, and family caregivers by identifying structures, conditions, mechanisms, and effects of intergenerational solidarity practices.
 
 ### Blackbox Sustainability
 *Funding Period:* 15.09.2020 - 14.09.2023  
