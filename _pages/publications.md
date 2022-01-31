@@ -14,23 +14,31 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[17]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2022. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, 43(1), 36-54. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.<a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
+</tr>
+<tr>  
+<td width="5%">[17]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2022. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, 43(1), 36-54. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.<a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
+</tr>
+<tr>    
+<td width="5%">[17]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2022. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, 43(1), 36-54. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.<a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
+</tr>
+<tr>  
+<td width="5%">[16]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong>, Daniela Braun, Matthias Fatke and Nayla Fawzi. 2021. Direct democracy, political support and populism - attitudinal patterns in the German Bundesländer.<em> Regional & Federal Studies</em>, online first. <a href="https://doi.org/10.1080/13597566.2021.1919876" target="_blank" rel="noopener noreferrer">doi:10.1080/13597566.2021.1919876</a>.</td>
 </tr>
 <tr>
-<td width="5%">[16]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2020. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, online first. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.<a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
-</tr>
-<tr>
 <td width="5%">[15]</td>
-<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2020. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies. <em>European Societies</em>, 22(3): 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a> <a href="https://www.defacto.expert/2019/10/30/surfen-um-zu-helfen-wie-die-internetnutzung-soziale-ungleichheiten-ausgleicht/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
+<td width="95%">Filsinger, Maximilian, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2020. Surfing to help? An empirical analysis of Internet use and volunteering in 27 European societies. <em>European Societies</em>, 22(3), 368-389. <a href="https://doi.org/10.1080/14616696.2019.1663895" target="_blank" rel="noopener noreferrer">doi:10.1080/14616696.2019.1663895</a> <a href="https://www.defacto.expert/2019/10/30/surfen-um-zu-helfen-wie-die-internetnutzung-soziale-ungleichheiten-ausgleicht/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
 </tr>
 <tr>
 <td width="5%">[14]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2019. Predisposed to Volunteer? Personality Traits and Different Forms of Volunteering. <em>Nonprofit and Voluntary Sector Quarterly</em>, 48(6): 1119–1142. <a href="https://doi.org/10.1177/0899764019848484" target="_blank" rel="noopener noreferrer">doi:10.1177/0899764019848484</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2019. Predisposed to Volunteer? Personality Traits and Different Forms of Volunteering. <em>Nonprofit and Voluntary Sector Quarterly</em>, 48(6), 1119–1142. <a href="https://doi.org/10.1177/0899764019848484" target="_blank" rel="noopener noreferrer">doi:10.1177/0899764019848484</a>.</td>
 </tr>
 <tr>
 <td width="5%">[13]</td>
-<td width="95%">Ackermann, Maya, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2019. The personality of stealth democrats: How traits shape attitudes towards expert-based governments. <em>West European Politics</em>, 42(3): 573-592. <a href="https://doi.org/10.1080/01402382.2018.1530494" target="_blank" rel="noopener noreferrer">doi:10.1080/01402382.2018.1530494</a>.</td>
+<td width="95%">Ackermann, Maya, <strong>Kathrin Ackermann</strong> and Markus Freitag. 2019. The personality of stealth democrats: How traits shape attitudes towards expert-based governments. <em>West European Politics</em>, 42(3), 573-592. <a href="https://doi.org/10.1080/01402382.2018.1530494" target="_blank" rel="noopener noreferrer">doi:10.1080/01402382.2018.1530494</a>.</td>
 </tr>
 <tr>
 <td width="5%">[12]</td>
@@ -38,11 +46,11 @@ redirect_from:
 </tr>
 <tr>
 <td width="5%">[11]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Anita Manatschal. 2018. Online volunteering as a means to overcome unequal participation? The profiles of online and offline volunteers compared. <em>New Media & Society</em>, 20(12): 4453–4472. <a href="https://doi.org/10.1177/1461444818775698" target="_blank" rel="noopener noreferrer">doi:10.1177/1461444818775698</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Anita Manatschal. 2018. Online volunteering as a means to overcome unequal participation? The profiles of online and offline volunteers compared. <em>New Media & Society</em>, 20(12), 4453–4472. <a href="https://doi.org/10.1177/1461444818775698" target="_blank" rel="noopener noreferrer">doi:10.1177/1461444818775698</a>.</td>
 </tr>
 <tr>
 <td width="5%">[10]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>, Maya Ackermann and Markus Freitag. 2018. Opting for an open society? Personality traits and attitudes toward the openness of Switzerland. <em>Comparative European Politics</em>, 16(3): 413–433. <a href="http://dx.doi.org/10.1057/cep.2016.18" target="_blank" rel="noopener noreferrer">doi:10.1057/cep.2016.18</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>, Maya Ackermann and Markus Freitag. 2018. Opting for an open society? Personality traits and attitudes toward the openness of Switzerland. <em>Comparative European Politics</em>, 16(3), 413–433. <a href="http://dx.doi.org/10.1057/cep.2016.18" target="_blank" rel="noopener noreferrer">doi:10.1057/cep.2016.18</a>.</td>
 </tr>
 <tr>
 <td width="5%">[9]</td>
