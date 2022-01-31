@@ -162,7 +162,7 @@ redirect_from:
 </tr>
 <tr>
 <td width="5%">[1]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2010. Bildungsungleichheit im internationalen Vergleich - Empirische Bestandsaufnahme und makropolitische Erklärungsansätze. <em>Bachelor Thesis</em>, <a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-127306" target="_blank" rel="noopener noreferrer">http://n </a><a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-127306" target="_blank" rel="noopener noreferrer">http://nbn-resolving.de/urn:nbn:de:bsz:352-127306</a><a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-127306" target="_blank" rel="noopener noreferrer">.</a></td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2010. Bildungsungleichheit im internationalen Vergleich - Empirische Bestandsaufnahme und makropolitische Erklärungsansätze. <em>Bachelor Thesis</em>, <a href="http://nbn-resolving.de/urn:nbn:de:bsz:352-127306" target="_blank" rel="noopener noreferrer">http://nbn-resolving.de/urn:nbn:de:bsz:352-127306 </a>.</td>
 </tr>
 </tbody>
 </table>
