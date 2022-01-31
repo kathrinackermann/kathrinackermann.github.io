@@ -13,11 +13,11 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
-<td width="5%">[17]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2022. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, 43(1), 36-54. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.<a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
+<td width="5%">[19]</td>
+<td width="95%"> König, Pascal D., Markus B. Siewert, and <strong>Ackermann, Kathrin</strong>. 2022. Conceptualizing and Measuring Citizens’ Preferences for Democracy: Taking Stock of Three Decades of Research in a Fragmented Field. <em>Comparative Political Studies,</em> online first. <a href="https://doi.org/10.1177/00104140211066213" target="_blank" rel="noopener noreferrer">doi:10.1177/00104140211066213</a>.</td>
 </tr>
 <tr>  
-<td width="5%">[17]</td>
+<td width="5%">[18]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2022. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, 43(1), 36-54. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>.<a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
 </tr>
 <tr>    
