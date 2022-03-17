@@ -9,6 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
+### Conference Presentation:
+I have presented my paper "The Activation of Citizenship Norms" at this year's virtual Meeting of the German Political Psychology Network on 11/03/2022.   
+[17/03/2022]
+
+### New publication:
+Our article "Conceptualizing and Measuring Citizens’ Preferences for Democracy: Taking Stock of Three Decades of Research in a Fragmented Field" (co-authored with Pascal D. König and Markus B. Siewert) has been published online first with *Comparative Political Studies*: <https://doi.org/10.1177/00104140211066213>
+[17/03/2022]
+
+### New publication:
+Our article "Voting in the Echo Chamber? Patterns of Political Online Activities and Voting Behavior in Switzerland" (co-authored with Isabelle Stadelmann-Steffen) has been published online first with *Swiss Political Science Review*: <https://doi.org/10.1111/spsr.12498> The article is available as open-access publication thanks to DEAL.
+[17/03/2022]
+
 ### New publication:
 Our chapter on participatory politics in Baden-Württemberg has just been published:  
 Ackermann, Kathrin, Angelika Vetter und Simon Stocker. 2021. Beteiligungspolitik unter Grün-Schwarz: Kontinuität und Wandel. In *Kiwi im Südwesten. Eine Bilanz der zweiten Regierung Kretschmann 2016-2021*, Felix Hörisch und Stefan Wurster (Hrsg.), 405-445. Wiesbaden: Springer VS. <https://link.springer.com/chapter/10.1007/978-3-658-34991-2_16>  
@@ -33,7 +45,7 @@ I have presented our paper "The Rural-Urban Divide in Citizen Discontent" (joint
 [17/09/2021]
 
 ### Conference Presentation:
-I have presented my paper "The Activation on Citizenship Norms" at this year's virtual Annual Meeting of the European Political Science Association (EPSA) on 25/06/2021.   
+I have presented my paper "The Activation of Citizenship Norms" at this year's virtual Annual Meeting of the European Political Science Association (EPSA) on 25/06/2021.   
 [17/09/2021]
 
 ### Online workshop:
