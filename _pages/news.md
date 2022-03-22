@@ -10,6 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ### Conference Presentation:
+
+
+### Conference Presentation:
 I have presented my paper "The Activation of Citizenship Norms" at this year's virtual Meeting of the German Political Psychology Network on 11/03/2022.   
 [17/03/2022]
 
