@@ -18,7 +18,7 @@ redirect_from:
 </tr>
 <tr>  
 <td width="5%">[18]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Isabelle Stadelmann-Steffen. 2022. Voting in the Echo Chamber? Patterns of Political Online Activities and Voting Behavior in Switzerland. <em>Swiss Political Science Review</em>, online first. <a href="https://doi.org/10.1111/spsr.12498" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12498</a>.</td> <a href="[https://osf.io/ftkzc/]" target="_blank" rel="noopener noreferrer">[OSF (preprint + replication material)]</a>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Isabelle Stadelmann-Steffen. 2022. Voting in the Echo Chamber? Patterns of Political Online Activities and Voting Behavior in Switzerland. <em>Swiss Political Science Review</em>, online first. <a href="https://doi.org/10.1111/spsr.12498" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12498</a>. <a href="https://osf.io/ftkzc/" target="_blank" rel="noopener noreferrer">[OSF (preprint + replication material)]</a></td>
 </tr>
 <tr>    
 <td width="5%">[17]</td>
