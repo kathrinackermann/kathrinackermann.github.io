@@ -12,7 +12,9 @@ redirect_from:
 Please find my full CV here: [CV_Ackermann_06-2021](http://kathrinackermann.github.io/files/CV_Ackermann_300621.pdf)
 
 ### Academic Positions
-* since 04/2019:      Assistant Professor (no tenure-track), Institute of Political Science, Heidelberg University
+* since 05/2023:      Associate Professor (tenure-track), Department of Social Sciences, University of Siegen
+* 04/2019 - 05/2023:  Assistant Professor (no tenure-track), Institute of Political Science, Heidelberg University
+                      (maternity and parental leave: 06/2022 - 04/2023)
 * 04/2018 – 03/2019:  Postdoctoral Researcher and Lecturer, Faculty of Social Sciences, Goethe University Frankfurt
 * 05/2017 – 03/2018:  Postdoctoral Fellow, Amsterdam Institute for Social Science Research (Host: Prof. Dr. Tom van der Meer), University of Amsterdam, Sponsored by a SNSF Early Postdoc.Mobility Grant
 * 10/2012 – 04/2017:  Research Assistant, Chair of Political Sociology (Prof. Dr. Markus Freitag), University of Bern
