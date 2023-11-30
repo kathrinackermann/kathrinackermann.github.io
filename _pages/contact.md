@@ -9,16 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-JProf. Dr. Kathrin Ackermann
+Prof. Dr. Kathrin Ackermann
 
-Heidelberg University  
-Institute of Political Science  
-Bergheimer Straße 58  
-D-69115 Heidelberg  
+University of Siegen
+Department of Social Sciences
+Adolf-Reichwein-Str. 2
+D-57076 Siegen
 
-Office: 03.033  
-Tel.: +49 (0) 6221 54 2871  
-Skype: live:.cid.784907216f4ea9c  
-E-Mail: <a href="mailto:kathrin.ackermann@ipw.uni-heidelberg.de" target="_blank" rel="noopener noreferrer">kathrin.ackermann@ipw.uni-heidelberg.de</a>  
+Office: AR-H 513  
+Tel.: +49 (0) 271 740 2792  
+E-Mail: <a href="mailto:kathrin.ackermann@uni-siegen.de" target="_blank" rel="noopener noreferrer">kathrin.ackermann@uni-siegen.de</a>  
 
-Office hours: Please find information on office hours and how to make an appointment on my <a href="https://www.uni-heidelberg.de/politikwissenschaften/personal/ackermann/index.html" target="_blank" rel="noopener noreferrer">institutional website </a>.
+Office hours: Please find information on office hours and how to make an appointment on my <a href="https://www.uni-siegen.de/phil/sozialwissenschaften/politik/mitarbeiter/ackermann_kathrin/?lang=de" target="_blank" rel="noopener noreferrer">institutional website </a>.
