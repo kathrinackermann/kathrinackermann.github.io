@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+### New Position:
+I took up a new position as Associate Professor at the University of Siegen in May 2023 and now finally also managed to update this webpage (at least the most important parts). More updates and news will follow.   
+[30/11/2023]
+
 ### Conference Presentation:
 I have presented my paper "The Activation of Citizenship Norms" at this year's virtual Meeting of the German Political Psychology Network on 11/03/2022.   
 [17/03/2022]
