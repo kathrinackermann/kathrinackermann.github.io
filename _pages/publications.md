@@ -13,6 +13,18 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>  
+<td width="5%">[22]</td>
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Martin Elff, and Heiko Giebler. 2023. The federal election 2021: Germany at the crossroads?. <em>Electoral Studies</em>, 86, 102697. 
+</tr>   
+<tr>  
+<td width="5%">[21]</td>
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Julian Erhardt, and Markus Freitag. 2023. Crafting social integration? Welfare state and volunteering across social groups and policy areas in 23 European countries. <em>KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie</em>, 75(Suppl 1), 283-304.
+</tr>    
+<tr>  
+<td width="5%">[20]</td>
+<td width="95%"> Brandenstein, Nils, <strong>Kathrin Ackermann</strong>, Nicole Aeschbach and Jan Rummel. 2023. The key determinants of individual greenhouse gas emissions in Germany are mostly domain-specific. <em>Communications Earth & Environment</em>, 4(1), 422. <a href="https://doi.org/10.1038/s43247-023-01092-x" target="_blank" rel="noopener noreferrer">doi:10.1038/s43247-023-01092-x</a>.</td>  
+</tr>  
+<tr>  
 <td width="5%">[19]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong>, Daniela Braun, Matthias Fatke and Nayla Fawzi. 2023. Direct democracy, political support and populism - attitudinal patterns in the German Bundesländer.<em> Regional & Federal Studies</em>, 33(2), 139-162. <a href="https://doi.org/10.1080/13597566.2021.1919876" target="_blank" rel="noopener noreferrer">doi:10.1080/13597566.2021.1919876</a>.</td>
 </tr>  
@@ -103,7 +115,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Edited Volumes</h3>
+<h3>Edited Volumes and Special Issues</h3>
 <table class="tg">
 <tbody>
 <tr>
@@ -119,6 +131,10 @@ redirect_from:
 <h3>Articles in Edited Volumes</h3>
 <table class="tg">
 <tbody>
+<tr>
+<td width="5%">[11]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2023. Ackermann, K. (2023). Dialogorientierte Beteiligung: Individuelle Bestimmungsgründe für die Teilnahme und Bewertung. In <em>Dialogische Bürgerinnen-und Bürgerbeteiligung in Baden-Württemberg</em>, Angelika Vetter and Uwe Remer (eds.), 35-59. Wiesbaden: Springer.</td>
+</tr> 
 <tr>
 <td width="5%">[10]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong>. 2022. Personality, Motives, and Political Participation. In <em>The Oxford Handbook of Political Participation</em>, Marco Giugni and Maria Grasso (eds.), 614–629. Oxford: Oxford University Press.</td>
