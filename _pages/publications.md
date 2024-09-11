@@ -13,9 +13,16 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>  
-<td width="5%">[22]</td>
-<td width="95%">
-Haussmann, Annette D., Olivia L. Odrasil, Stefanie Wiloth, Esther Hinz, Patricia Kerl, Jonathan Mylius, and <strong>Kathrin Ackermann</strong>. 2024. Tradition and Transformation: Spirituality in Church-Related Caring Communities in a Pluralistic Society. <em>Religions</em>, 15(3), 363. <a href="https://doi.org/10.3390/rel15030363" target="_blank" rel="noopener noreferrer">doi:10.3390/rel15030363</a>.</td>    
+<td width="5%">[25]</td>
+<td width="95%"> Claassen, Christopher, <strong>Kathrin Ackermann</strong>, Eri Bertsou, Lucas Borba, Ryan E. Carlin, Amnon Cavari, Sirianne Dahlum, Sergiu Gherghina, Darren Hawkins, Yphtach Lelkes, Pedro C. Magalhães, Robert Mattes, Maurits J. Meijers, Anja Neundorf, Dániel Oross, Aykut Öztürk, Rodolfo Sarsfield, Darin Self, Ben Stanley, Tsung-han Tsai, Andrej Zaslove, and Elizabeth J. Zechmeister. 2024. Conceptualizing and measuring support for democracy: A new approach. <em>Comparative Political Studies</em>, online first <a href="https://doi.org/10.1177/00104140241259458" target="_blank" rel="noopener noreferrer">doi:10.1177/00104140241259458</a>.</td>    
+</tr>   
+<tr>  
+<td width="5%">[24]</td>
+<td width="95%"> van der Meer, Tom W. G., <strong>Kathrin Ackermann</strong>, and Huib Pellikaan, H. (2024). Can we aggregate voters’ perceptions of political parties’ left–right positions? Formal and probabilistic tests of the left–right scale as a unidimensional common space on cross-national and longitudinal data. Comparative European Politics, online first. <a href="https://doi.org/10.1057/s41295-024-00383-7" target="_blank" rel="noopener noreferrer">doi:10.1057/s41295-024-00383-7</a>.</td>    
+</tr>   
+<tr>  
+<td width="5%">[23]</td>
+<td width="95%"> Haussmann, Annette D., Olivia L. Odrasil, Stefanie Wiloth, Esther Hinz, Patricia Kerl, Jonathan Mylius, and <strong>Kathrin Ackermann</strong>. 2024. Tradition and Transformation: Spirituality in Church-Related Caring Communities in a Pluralistic Society. <em>Religions</em>, 15(3), 363. <a href="https://doi.org/10.3390/rel15030363" target="_blank" rel="noopener noreferrer">doi:10.3390/rel15030363</a>.</td>    
 </tr>   
 <tr>  
 <td width="5%">[22]</td>
