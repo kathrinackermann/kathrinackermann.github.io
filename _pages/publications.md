@@ -118,9 +118,13 @@ redirect_from:
 <h3>Edited Volumes and Special Issues</h3>
 <table class="tg">
 <tbody>
+<tr>  
+<td width="5%">[22]</td>
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Martin Elff, and Heiko Giebler (Eds.) 2023. The federal election 2021: Germany at the crossroads?. Special Issue at <em>Electoral Studies</em>. <a href="https://www.sciencedirect.com/special-issue/10PRNKCCD02" target="_blank" rel="noopener noreferrer"> https://www.sciencedirect.com/special-issue/10PRNKCCD02</a>.</td>
+</tr>  
 <tr>
 <td width="5%">[2]</td>
-<td width="95%"> <strong>Ackermann, Kathrin</strong>, Heiko Giebler und Martin Elff (Eds.). 2023. <em>Deutschland und Europa im Umbruch: Einstellungen, Verhalten und Forschungsperspektiven im Kontext der Bundestagswahl 2017 und der Europawahl 2019</em>. Wiesbaden: Springer.</td>
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Heiko Giebler, and Martin Elff (Eds.). 2023. <em>Deutschland und Europa im Umbruch: Einstellungen, Verhalten und Forschungsperspektiven im Kontext der Bundestagswahl 2017 und der Europawahl 2019</em>. Wiesbaden: Springer.</td>
 </tr>
 <tr>
 <td width="5%">[1]</td>
