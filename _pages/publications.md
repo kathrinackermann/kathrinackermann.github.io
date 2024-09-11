@@ -103,9 +103,30 @@ redirect_from:
 </tr>
 </tbody>
 </table>
+<h3>Edited Volumes</h3>
+<table class="tg">
+<tbody>
+<tr>
+<td width="5%">[2]</td>
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Heiko Giebler und Martin Elff (Eds.). 2023. <em>Deutschland und Europa im Umbruch: Einstellungen, Verhalten und Forschungsperspektiven im Kontext der Bundestagswahl 2017 und der Europawahl 2019</em>. Wiesbaden: Springer.</td>
+</tr>
+<tr>
+<td width="5%">[1]</td>
+<td width="95%"> Elff, Martin, <strong>Kathrin Ackermann</strong>, and Heiko Giebler (Eds.). 2022. <em>Wahlen und politische Einstellungen in Ost-und Westdeutschland: Persistenz, Konvergenz oder Divergenz?</em>. Wiesbaden: Springer.</td>
+</tr>
+</tbody>
+</table>
 <h3>Articles in Edited Volumes</h3>
 <table class="tg">
 <tbody>
+<tr>
+<td width="5%">[10]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2022. Personality, Motives, and Political Participation. In <em>The Oxford Handbook of Political Participation</em>, Marco Giugni and Maria Grasso (eds.), 614–629. Oxford: Oxford University Press.</td>
+</tr> 
+<tr>
+<td width="5%">[9]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>, and Jan Eckhardt. 2022. Personality and public opinion. In <em>Comparative Public Opinion</em>, Cameron D. Anderson and Mathieu Turgeon (eds.), 152-172. London: Routledge.</td>
+</tr>  
 <tr>
 <td width="5%">[8]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong>, Angelika Vetter and Simon Stocker. 2021. Beteiligungspolitik unter Grün-Schwarz: Kontinuität und Wandel. In <em>Kiwi im Südwesten. Eine Bilanz der zweiten Regierung Kretschmann 2016-2021</em>, Felix Hörisch and Stefan Wurster (eds.), 405-445. Wiesbaden: Springer VS.</td>
