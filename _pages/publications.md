@@ -26,7 +26,7 @@ redirect_from:
 </tr>
 <tr>  
 <td width="5%">[16]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>, Daniela Braun, Matthias Fatke and Nayla Fawzi. 2021. Direct democracy, political support and populism - attitudinal patterns in the German Bundesländer.<em> Regional & Federal Studies</em>, online first. <a href="https://doi.org/10.1080/13597566.2021.1919876" target="_blank" rel="noopener noreferrer">doi:10.1080/13597566.2021.1919876</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>, Daniela Braun, Matthias Fatke and Nayla Fawzi. 2023. Direct democracy, political support and populism - attitudinal patterns in the German Bundesländer.<em> Regional & Federal Studies</em>, 33(2), 139-162. <a href="https://doi.org/10.1080/13597566.2021.1919876" target="_blank" rel="noopener noreferrer">doi:10.1080/13597566.2021.1919876</a>.</td>
 </tr>
 <tr>
 <td width="5%">[15]</td>
