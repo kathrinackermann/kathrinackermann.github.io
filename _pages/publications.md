@@ -201,6 +201,11 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>
+<td width="5%">[2]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2021. Book Review of Sonja Zmerli and Ofer Feldman (eds.), 2015:  Politikwissenschaftliche Einstellungs- und Verhaltensforschung.
+ Handbuch für Wissenschaft und Studium, Baden-Baden: Nomos. <em>Politische Psychologie - Journal of Political Psychology</em>, 9(2), 95-98.
+</tr>  
+<tr>
 <td width="5%">[1]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong>. 2017. Book Review of Sonja Zmerli and Ofer Feldman (eds.), 2015: Politische Psychologie. Handbuch für Studium und Wissenschaft, Baden-Baden: Nomos. <em>Swiss Political Science Review</em>, 23(1), 103-106. <a href="http://onlinelibrary.wiley.com/doi/10.1111/spsr.12240/full" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12240</a>.</td>
 </tr>
