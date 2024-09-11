@@ -18,7 +18,7 @@ redirect_from:
 </tr>   
 <tr>  
 <td width="5%">[24]</td>
-<td width="95%"> van der Meer, Tom W. G., <strong>Kathrin Ackermann</strong>, and Huib Pellikaan, H. (2024). Can we aggregate voters’ perceptions of political parties’ left–right positions? Formal and probabilistic tests of the left–right scale as a unidimensional common space on cross-national and longitudinal data. <em>Comparative European Politics</em>, online first. <a href="https://doi.org/10.1057/s41295-024-00383-7" target="_blank" rel="noopener noreferrer">doi:10.1057/s41295-024-00383-7</a>.</td>    
+<td width="95%"> van der Meer, Tom W. G., <strong>Kathrin Ackermann</strong>, and Huib Pellikaan. 2024. Can we aggregate voters’ perceptions of political parties’ left–right positions? Formal and probabilistic tests of the left–right scale as a unidimensional common space on cross-national and longitudinal data. <em>Comparative European Politics</em>, online first. <a href="https://doi.org/10.1057/s41295-024-00383-7" target="_blank" rel="noopener noreferrer">doi:10.1057/s41295-024-00383-7</a>.</td>    
 </tr>   
 <tr>  
 <td width="5%">[23]</td>
@@ -131,8 +131,8 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>  
-<td width="5%">[22]</td>
-<td width="95%"> <strong>Ackermann, Kathrin</strong>, Martin Elff, and Heiko Giebler (Eds.) 2023. The federal election 2021: Germany at the crossroads?. Special Issue at <em>Electoral Studies</em>. <a href="https://www.sciencedirect.com/special-issue/10PRNKCCD02" target="_blank" rel="noopener noreferrer"> https://www.sciencedirect.com/special-issue/10PRNKCCD02</a>.</td>
+<td width="5%">[3]</td>
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Martin Elff, and Heiko Giebler (Eds.). 2023. The federal election 2021: Germany at the crossroads?. Special Issue at <em>Electoral Studies</em>. <a href="https://www.sciencedirect.com/special-issue/10PRNKCCD02" target="_blank" rel="noopener noreferrer"> https://www.sciencedirect.com/special-issue/10PRNKCCD02</a>.</td>
 </tr>  
 <tr>
 <td width="5%">[2]</td>
@@ -152,7 +152,7 @@ redirect_from:
 <td width="95%"> Odrasil, Olivia L., Annette D. Haußmann, Esther Hinz, Patricia Kerl, Jonathan Mylius, <strong>Kathrin Ackermann</strong>, Stefanie Wiloth. 2024. Die Pluralität der Sorge in kirchlichen Sorgenden Gemeinschaften. Begründungen, Qualifizierungen und Differenzierungen. In <em>Miteinander füreinander sorgen</em>, Annette D. Haußmann and Christine W. Hoffmann (eds.), 55-91. Stuttgart: W. Kohlhammer.
 <tr>
 <td width="5%">[11]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2023. Ackermann, K. (2023). Dialogorientierte Beteiligung: Individuelle Bestimmungsgründe für die Teilnahme und Bewertung. In <em>Dialogische Bürgerinnen-und Bürgerbeteiligung in Baden-Württemberg</em>, Angelika Vetter and Uwe Remer (eds.), 35-59. Wiesbaden: Springer.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2023. Dialogorientierte Beteiligung: Individuelle Bestimmungsgründe für die Teilnahme und Bewertung. In <em>Dialogische Bürgerinnen-und Bürgerbeteiligung in Baden-Württemberg</em>, Angelika Vetter and Uwe Remer (eds.), 35-59. Wiesbaden: Springer.</td>
 </tr> 
 <tr>
 <td width="5%">[10]</td>
