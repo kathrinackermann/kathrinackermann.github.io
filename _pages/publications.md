@@ -12,21 +12,21 @@ redirect_from:
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
-<tr>
+<tr>  
 <td width="5%">[19]</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong>, Daniela Braun, Matthias Fatke and Nayla Fawzi. 2023. Direct democracy, political support and populism - attitudinal patterns in the German Bundesländer.<em> Regional & Federal Studies</em>, 33(2), 139-162. <a href="https://doi.org/10.1080/13597566.2021.1919876" target="_blank" rel="noopener noreferrer">doi:10.1080/13597566.2021.1919876</a>.</td>
+</tr>  
+<tr>
+<td width="5%">[18]</td>
 <td width="95%"> König, Pascal D., Markus B. Siewert, and <strong>Kathrin Ackermann</strong>. 2022. Conceptualizing and Measuring Citizens’ Preferences for Democracy: Taking Stock of Three Decades of Research in a Fragmented Field. <em>Comparative Political Studies,</em> 55(12), 2015-2049. <a href="https://doi.org/10.1177/00104140211066213" target="_blank" rel="noopener noreferrer">doi:10.1177/00104140211066213</a>.</td>
 </tr>
 <tr>  
-<td width="5%">[18]</td>
+<td width="5%">[17]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong> and Isabelle Stadelmann-Steffen. 2022. Voting in the Echo Chamber? Patterns of Political Online Activities and Voting Behavior in Switzerland. <em>Swiss Political Science Review</em>, 28(2), 377-400. <a href="https://doi.org/10.1111/spsr.12498" target="_blank" rel="noopener noreferrer">doi:10.1111/spsr.12498</a>. <a href="https://osf.io/ftkzc/" target="_blank" rel="noopener noreferrer">[OSF (preprint + replication material)]</a>, <a href="https://www.defacto.expert/2022/09/06/wahlentscheidung-in-der-echo-kammer-digitales-politisches-engagement-und-panaschieren-bei-der-schweizer-nationalratswahl-2019/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
 </tr>
 <tr>    
-<td width="5%">[17]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2022. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, 43(1), 36-54. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>. <a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
-</tr>
-<tr>  
 <td width="5%">[16]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>, Daniela Braun, Matthias Fatke and Nayla Fawzi. 2023. Direct democracy, political support and populism - attitudinal patterns in the German Bundesländer.<em> Regional & Federal Studies</em>, 33(2), 139-162. <a href="https://doi.org/10.1080/13597566.2021.1919876" target="_blank" rel="noopener noreferrer">doi:10.1080/13597566.2021.1919876</a>.</td>
+<td width="95%"><strong>Ackermann, Kathrin</strong> and Birte Gundelach. 2022. Psychological roots of political consumerism: Personality traits and participation in boycott and buycott. <em>International Political Science Review</em>, 43(1), 36-54. <a href="https://doi.org/10.1177/0192512120959683" target="_blank" rel="noopener noreferrer">doi:10.1177/0192512120959683</a>. <a href="https://blogs.lse.ac.uk/europpblog/2021/03/30/how-personality-traits-shape-our-tendency-to-engage-in-political-consumerism/" target="_blank" rel="noopener noreferrer">[LSEEuropp BlogPost]</a>, <a href="https://www.defacto.expert/2020/11/18/kaufen-oder-boykottieren-die-psychologischen-wurzeln-des-politischen-konsums/" target="_blank" rel="noopener noreferrer">[DeFacto BlogPost (in German)]</a></td>
 </tr>
 <tr>
 <td width="5%">[15]</td>
