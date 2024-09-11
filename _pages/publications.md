@@ -14,6 +14,11 @@ redirect_from:
 <tbody>
 <tr>  
 <td width="5%">[22]</td>
+<td width="95%">
+Haussmann, Annette D., Olivia L. Odrasil, Stefanie Wiloth, Esther Hinz, Patricia Kerl, Jonathan Mylius, and <strong>Kathrin Ackermann</strong>. 2024. Tradition and Transformation: Spirituality in Church-Related Caring Communities in a Pluralistic Society. <em>Religions</em>, 15(3), 363. <a href="https://doi.org/10.3390/rel15030363" target="_blank" rel="noopener noreferrer">doi:10.3390/rel15030363</a>.</td>    
+</tr>   
+<tr>  
+<td width="5%">[22]</td>
 <td width="95%"> <strong>Ackermann, Kathrin</strong>, Martin Elff, and Heiko Giebler. 2023. The federal election 2021: Germany at the crossroads?. <em>Electoral Studies</em>, 86, 102697. <a href="https://doi.org/10.1016/j.electstud.2023.102697" target="_blank" rel="noopener noreferrer">doi:10.1016/j.electstud.2023.102697</a>.</td>  
 </tr>   
 <tr>  
