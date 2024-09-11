@@ -11,9 +11,9 @@ redirect_from:
 <h2>Angaben gemäß § 5 TMG:</h2>
 Prof. Dr. Kathrin Ackermann 
 
-University of Siegen
-Department of Social Sciences
-Adolf-Reichwein-Str. 2
+University of Siegen  
+Department of Social Sciences  
+Adolf-Reichwein-Str. 2  
 D-57076 Siegen
 
 
