@@ -14,11 +14,11 @@ redirect_from:
 <tbody>
 <tr>  
 <td width="5%">[22]</td>
-<td width="95%"> <strong>Ackermann, Kathrin</strong>, Martin Elff, and Heiko Giebler. 2023. The federal election 2021: Germany at the crossroads?. <em>Electoral Studies</em>, 86, 102697. 
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Martin Elff, and Heiko Giebler. 2023. The federal election 2021: Germany at the crossroads?. <em>Electoral Studies</em>, 86, 102697. <a href="https://doi.org/10.1016/j.electstud.2023.102697" target="_blank" rel="noopener noreferrer">doi:10.1016/j.electstud.2023.102697</a>.</td>  
 </tr>   
 <tr>  
 <td width="5%">[21]</td>
-<td width="95%"> <strong>Ackermann, Kathrin</strong>, Julian Erhardt, and Markus Freitag. 2023. Crafting social integration? Welfare state and volunteering across social groups and policy areas in 23 European countries. <em>KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie</em>, 75(Suppl 1), 283-304.
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Julian Erhardt, and Markus Freitag. 2023. Crafting social integration? Welfare state and volunteering across social groups and policy areas in 23 European countries. <em>KZfSS Kölner Zeitschrift für Soziologie und Sozialpsychologie</em>, 75(Suppl 1), 283-304. <a href="https://doi.org/10.1007/s11577-023-00881-8" target="_blank" rel="noopener noreferrer">doi:10.1007/s11577-023-00881-8</a>.</td>  
 </tr>    
 <tr>  
 <td width="5%">[20]</td>
