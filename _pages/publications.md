@@ -150,6 +150,7 @@ redirect_from:
 <tr>
 <td width="5%">[12]</td>
 <td width="95%"> Odrasil, Olivia L., Annette D. Haußmann, Esther Hinz, Patricia Kerl, Jonathan Mylius, <strong>Kathrin Ackermann</strong>, Stefanie Wiloth. 2024. Die Pluralität der Sorge in kirchlichen Sorgenden Gemeinschaften. Begründungen, Qualifizierungen und Differenzierungen. In <em>Miteinander füreinander sorgen</em>, Annette D. Haußmann and Christine W. Hoffmann (eds.), 55-91. Stuttgart: W. Kohlhammer.
+</tr> 
 <tr>
 <td width="5%">[11]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong>. 2023. Dialogorientierte Beteiligung: Individuelle Bestimmungsgründe für die Teilnahme und Bewertung. In <em>Dialogische Bürgerinnen-und Bürgerbeteiligung in Baden-Württemberg</em>, Angelika Vetter and Uwe Remer (eds.), 35-59. Wiesbaden: Springer.</td>
