@@ -149,7 +149,7 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[12]</td>
-<td width="95%"> Odrasil, Olivia L., Annette D. Haußmann, Esther Hinz, Patricia Kerl, Jonathan Mylius, <strong>Kathrin Ackermann</strong>, Stefanie Wiloth. 2024. Die Pluralität der Sorge in kirchlichen Sorgenden Gemeinschaften. Begründungen, Qualifizierungen und Differenzierungen. In <em>Miteinander füreinander sorgen</em>, Annette D. Haußmann and Christine W. Hoffmann (eds.), 55-91. Stuttgart: W. Kohlhammer.
+<td width="95%"> Odrasil, Olivia L., Annette D. Haußmann, Esther Hinz, Patricia Kerl, Jonathan Mylius, <strong>Kathrin Ackermann</strong>, Stefanie Wiloth. 2024. Die Pluralität der Sorge in kirchlichen Sorgenden Gemeinschaften. Begründungen, Qualifizierungen und Differenzierungen. In <em>Miteinander füreinander sorgen</em>, Annette D. Haußmann and Christine W. Hoffmann (eds.), 55-91. Stuttgart: W. Kohlhammer.</td>
 </tr> 
 <tr>
 <td width="5%">[11]</td>
@@ -202,8 +202,7 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[2]</td>
-<td width="95%"><strong>Ackermann, Kathrin</strong>. 2021. Book Review of Sonja Zmerli and Ofer Feldman (eds.), 2015:  Politikwissenschaftliche Einstellungs- und Verhaltensforschung.
- Handbuch für Wissenschaft und Studium, Baden-Baden: Nomos. <em>Politische Psychologie - Journal of Political Psychology</em>, 9(2), 95-98.
+<td width="95%"><strong>Ackermann, Kathrin</strong>. 2021. Book Review of Thorsten Faas, Oscar W. Gabriel, and Jürgen Maier (eds.), 2020: Politikwissenschaftliche Einstellungs- und Verhaltensforschung. Handbuch für Wissenschaft und Studium, Baden-Baden: Nomos. <em>Politische Psychologie - Journal of Political Psychology</em>, 9(2), 95-98.</td>
 </tr>  
 <tr>
 <td width="5%">[1]</td>
