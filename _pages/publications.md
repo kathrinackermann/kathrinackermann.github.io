@@ -22,7 +22,7 @@ redirect_from:
 </tr>   
 <tr>  
 <td width="5%">[23]</td>
-<td width="95%"> Haussmann, Annette D., Olivia L. Odrasil, Stefanie Wiloth, Esther Hinz, Patricia Kerl, Jonathan Mylius, and <strong>Kathrin Ackermann</strong>. 2024. Tradition and Transformation: Spirituality in Church-Related Caring Communities in a Pluralistic Society. <em>Religions</em>, 15(3), 363. <a href="https://doi.org/10.3390/rel15030363" target="_blank" rel="noopener noreferrer">doi:10.3390/rel15030363</a>.</td>    
+<td width="95%"> Haußmann, Annette D., Olivia L. Odrasil, Stefanie Wiloth, Esther Hinz, Patricia Kerl, Jonathan Mylius, and <strong>Kathrin Ackermann</strong>. 2024. Tradition and Transformation: Spirituality in Church-Related Caring Communities in a Pluralistic Society. <em>Religions</em>, 15(3), 363. <a href="https://doi.org/10.3390/rel15030363" target="_blank" rel="noopener noreferrer">doi:10.3390/rel15030363</a>.</td>    
 </tr>   
 <tr>  
 <td width="5%">[22]</td>
@@ -147,6 +147,9 @@ redirect_from:
 <h3>Articles in Edited Volumes</h3>
 <table class="tg">
 <tbody>
+<tr>
+<td width="5%">[12]</td>
+<td width="95%"> Odrasil, Olivia L., Annette D. Haußmann, Esther Hinz, Patricia Kerl, Jonathan Mylius, <strong>Kathrin Ackermann</strong>, Stefanie Wiloth. 2024. Die Pluralität der Sorge in kirchlichen Sorgenden Gemeinschaften. Begründungen, Qualifizierungen und Differenzierungen. In <em>Miteinander füreinander sorgen</em>, Annette D. Haußmann and Christine W. Hoffmann (eds.), 55-91. Stuttgart: W. Kohlhammer.
 <tr>
 <td width="5%">[11]</td>
 <td width="95%"><strong>Ackermann, Kathrin</strong>. 2023. Ackermann, K. (2023). Dialogorientierte Beteiligung: Individuelle Bestimmungsgründe für die Teilnahme und Bewertung. In <em>Dialogische Bürgerinnen-und Bürgerbeteiligung in Baden-Württemberg</em>, Angelika Vetter and Uwe Remer (eds.), 35-59. Wiesbaden: Springer.</td>
