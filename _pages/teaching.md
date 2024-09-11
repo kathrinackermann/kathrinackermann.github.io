@@ -9,6 +9,80 @@ redirect_from:
 
 {% include base_path %}
 
+<h3>University of Siegen</h3>
+<table class="tg">
+<tbody>
+<tr>
+<th class="tg-031e"></th>
+<th class="tg-031e"></th>
+</tr>
+<tr>
+<td width="20%">Winter 2024/2025</td>
+<td width="80%">Citizens and Politics (MA Level, English)</td> 
+</tr> 
+<tr>
+<td width="20%">Winter 2024/2025</td>
+<td width="80%">Introduction to the Political System of Germany (BA Level, Lecture)</td> 
+</tr>    
+<tr>
+<td width="20%">Winter 2024/2025</td>
+<td width="80%">Societal Conflicts and Politics (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Winter 2024/2025</td>
+<td width="80%">Empirical Participation Research (BA Level)</td> 
+</tr>     
+<tr>
+<td width="20%">Summer 2024</td>
+<td width="80%">Changing Norms of Good Citizenship (MA Level, English)</td> 
+</tr>   
+<tr>
+<td width="20%">Summer 2024</td>
+<td width="80%">Introduction to Empirical Participation Research (MA Level)</td> 
+</tr> 
+<tr>
+<td width="20%">Summer 2024</td>
+<td width="80%">Empirical Democracy Research (MA Level)</td> 
+</tr>    
+<tr>
+<td width="20%">Summer 2024</td>
+<td width="80%">Introduction to Empirical Electoral Research (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Summer 2024</td>
+<td width="80%">Populism in Germany and Europe (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Winter 2023/2024</td>
+<td width="80%">Citizens and Politics (MA Level, English)</td> 
+</tr> 
+<tr>
+<td width="20%">Winter 2023/2024</td>
+<td width="80%">Introduction to the Political System of Germany (BA Level, Lecture)</td> 
+</tr>    
+<tr>
+<td width="20%">Winter 2023/2024</td>
+<td width="80%">Societal Conflicts and Politics (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Winter 2023/2024</td>
+<td width="80%">Empirical Participation Research (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Summer 2023</td>
+<td width="80%">Empirical Democracy Research (MA Level)</td> 
+</tr>    
+<tr>
+<td width="20%">Summer 2023</td>
+<td width="80%">Introduction to Electoral Research (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Summer 2023</td>
+<td width="80%">Populism in Germany and Europe (BA Level)</td> 
+</tr> 
+</tbody>
+</table>
+
 <h3>Heidelberg University</h3>
 <table class="tg">
 <tbody>
@@ -16,6 +90,14 @@ redirect_from:
 <th class="tg-031e"></th>
 <th class="tg-031e"></th>
 </tr>
+<tr>
+<td width="20%">Summer 2023</td>
+<td width="80%">Populism in Germany and Europe (BA Level)</td> 
+</tr>    
+<tr>
+<td width="20%">Summer 2022</td>
+<td width="80%">Populism in Germany and Europe (BA Level)</td> 
+</tr>  
 <tr>
 <td width="20%">Winter 2021/2022</td>
 <td width="80%">Research Seminar (MA Level)</td> 
