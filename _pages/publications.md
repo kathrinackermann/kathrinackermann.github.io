@@ -196,7 +196,7 @@ redirect_from:
 </tr>
 </tbody>
 </table>
-<h3>Book Review</h3>
+<h3>Book Reviews</h3>
 <table class="tg">
 <tbody>
 <tr>
