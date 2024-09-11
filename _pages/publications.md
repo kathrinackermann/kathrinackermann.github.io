@@ -18,7 +18,7 @@ redirect_from:
 </tr>   
 <tr>  
 <td width="5%">[24]</td>
-<td width="95%"> van der Meer, Tom W. G., <strong>Kathrin Ackermann</strong>, and Huib Pellikaan, H. (2024). Can we aggregate voters’ perceptions of political parties’ left–right positions? Formal and probabilistic tests of the left–right scale as a unidimensional common space on cross-national and longitudinal data. Comparative European Politics, online first. <a href="https://doi.org/10.1057/s41295-024-00383-7" target="_blank" rel="noopener noreferrer">doi:10.1057/s41295-024-00383-7</a>.</td>    
+<td width="95%"> van der Meer, Tom W. G., <strong>Kathrin Ackermann</strong>, and Huib Pellikaan, H. (2024). Can we aggregate voters’ perceptions of political parties’ left–right positions? Formal and probabilistic tests of the left–right scale as a unidimensional common space on cross-national and longitudinal data. <em>Comparative European Politics</em>, online first. <a href="https://doi.org/10.1057/s41295-024-00383-7" target="_blank" rel="noopener noreferrer">doi:10.1057/s41295-024-00383-7</a>.</td>    
 </tr>   
 <tr>  
 <td width="5%">[23]</td>
