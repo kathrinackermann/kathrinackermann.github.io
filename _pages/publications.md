@@ -14,7 +14,7 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[19]</td>
-<td width="95%"> König, Pascal D., Markus B. Siewert, and <strong>Kathrin Ackermann</strong>. 2022. Conceptualizing and Measuring Citizens’ Preferences for Democracy: Taking Stock of Three Decades of Research in a Fragmented Field. <em>Comparative Political Studies,</em> online first. <a href="https://doi.org/10.1177/00104140211066213" target="_blank" rel="noopener noreferrer">doi:10.1177/00104140211066213</a>.</td>
+<td width="95%"> König, Pascal D., Markus B. Siewert, and <strong>Kathrin Ackermann</strong>. 2022. Conceptualizing and Measuring Citizens’ Preferences for Democracy: Taking Stock of Three Decades of Research in a Fragmented Field. <em>Comparative Political Studies,</em> 55(12), 2015-2049. <a href="https://doi.org/10.1177/00104140211066213" target="_blank" rel="noopener noreferrer">doi:10.1177/00104140211066213</a>.</td>
 </tr>
 <tr>  
 <td width="5%">[18]</td>
