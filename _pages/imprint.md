@@ -9,23 +9,24 @@ redirect_from:
 
 
 <h2>Angaben gemäß § 5 TMG:</h2>
-Dr. Kathrin Ackermann 
+Prof. Dr. Kathrin Ackermann 
 
-Heidelberg University   
-Institute of Political Science   
-Bergheimer Straße 58   
-D-69115 Heidelberg  
+University of Siegen
+Department of Social Sciences
+Adolf-Reichwein-Str. 2
+D-57076 Siegen
 
-<a href="mailto:kathrin.ackermann@ipw.uni-heidelberg.de">kathrin.ackermann@ipw.uni-heidelberg.de</a>
-Tel.: +49 (0) 6221 54 2871
+
+<a href="mailto:kathrin.ackermann@uni-siegen.de"> kathrin.ackermann@uni-siegen.de</a>
+Tel.: +49 (0) 271 740 2792
 
 <h2>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:</h2>
-Dr. Kathrin Ackermann 
+Prof. Dr. Kathrin Ackermann 
 
-Heidelberg University   
-Institute of Political Science   
-Bergheimer Straße 58   
-D-69115 Heidelberg  
+University of Siegen
+Department of Social Sciences
+Adolf-Reichwein-Str. 2
+D-57076 Siegen
 
 <h1>Datenschutzerklärung</h1>
 <h2 id="m14">Einleitung</h2>
