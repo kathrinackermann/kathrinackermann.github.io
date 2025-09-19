@@ -15,7 +15,23 @@ redirect_from:
 <tr>
 <th class="tg-031e"></th>
 <th class="tg-031e"></th>
-</tr>
+</tr>  
+<tr>
+<td width="20%">Summer 2025</td>
+<td width="80%">Empirical Democracy Research (MA Level)</td> 
+</tr>    
+<tr>
+<td width="20%">Summer 2025</td>
+<td width="80%">Introduction to Empirical Electoral Research (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Summer 2025</td>
+<td width="80%">Populism in Germany and Europe (BA Level)</td> 
+</tr>   
+<tr>
+<td width="20%">Winter 2024/2025</td>
+<td width="80%">Empirical Participation Research (BA Level)</td> 
+</tr>     
 <tr>
 <td width="20%">Winter 2024/2025</td>
 <td width="80%">Citizens and Politics (MA Level, English)</td> 
