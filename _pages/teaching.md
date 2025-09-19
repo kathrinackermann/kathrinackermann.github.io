@@ -29,7 +29,7 @@ redirect_from:
 <td width="80%">Populism in Germany and Europe (BA Level)</td> 
 </tr>   
 <tr>
-<td width="20%">Winter 2024/2025</td>
+<td width="20%">Summer 2025</td>
 <td width="80%">Empirical Participation Research (BA Level)</td> 
 </tr>     
 <tr>
