@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please find my full CV here: [CV_Ackermann_06-2021](http://kathrinackermann.github.io/files/CV_Ackermann_300621.pdf)
+Please find my full CV here: [CV_Ackermann_08-2025](http://kathrinackermann.github.io/files/CV_Ackermann_280825.pdf)
 
 ### Academic Positions
 * since 05/2023:      Associate Professor (tenure-track), Department of Social Sciences, University of Siegen
