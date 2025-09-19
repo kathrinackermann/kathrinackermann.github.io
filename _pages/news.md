@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+### Update:
+I finally managed to update this webpage. Please feel free to reach out if you are interested in current research and working papers.    
+[19/09/2025]
+
 ### New Position:
 I took up a new position as Associate Professor at the University of Siegen in May 2023 and now finally also managed to update this webpage (at least the most important parts). More updates and news will follow.   
 [30/11/2023]
