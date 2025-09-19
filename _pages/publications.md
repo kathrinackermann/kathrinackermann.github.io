@@ -14,7 +14,7 @@ redirect_from:
 <tbody>
 <tr>  
 <td width="5%">[26]</td>
-<td width="95%"> Claassen, Christopher, Sascha Göbel, Antonia Lang, Kathrin Ackermann,
+<td width="95%"> Claassen, Christopher, Sascha Göbel, Antonia Lang, <strong>Kathrin Ackermann</strong>,
 Petar Bankov, Kevin Brookes, Bartolomeo Cappellina, Christopher Carman,
 Markus Freitag, Rubén García Del Horno, Enrique Hernández, Guillem Rico,
 Sigrid Rossteutscher, Richard Traunmüller, Michael Webb, Sonja Zmerli, and
