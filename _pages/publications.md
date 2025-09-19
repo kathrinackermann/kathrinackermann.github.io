@@ -18,7 +18,6 @@ redirect_from:
 Wiloth. 2025. Living up to your own standards? Patterns of civic norms
 and volunteering in Germany. <em>Social Inclusion</em>, 13 <a href="https://doi.org/10.17645/si.10007" target="_blank" rel="noopener noreferrer">doi:10.17645/si.10007</a>.</td>    
 </tr>   
-<tr>
 <tr>  
 <td width="5%">[27]</td>
 <td width="95%"> Brandenstein, Nils,  <strong>Kathrin Ackermann</strong>, and Jan Rummel. 2025. The trouble with carbon footprint analysis in behavioral climate research. <em>Climatic
