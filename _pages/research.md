@@ -21,7 +21,7 @@ My research covers different aspects of **Empirical Democracy Research**. It rel
 ### 1. Citizens and Democracy 
 I am interested in the way citizens participate in politics and society and how they evaluate the political system and their very own role in this system. Thus, I study civic engagement, aspects of social cohesion, attitudes towards democracy and norms of good citizenship. I analyze how contextual factors (e.g. institutions, social structure, opinion climate) and societal changes (e.g. digitalization, demographic change, polarization) affect civic engagement and attitudes towards democracy.
 
-*Current Working Papers:*
+#### *Current Working Papers:*
 * Measuring Citizenship Norms using Open-ended Questions (with Alexander Seitz) 
 * Measuring Citizenship Norms using Conjoint Experiments
 * Attitudes towards Non-Citizen Voting (with Jessica Kuhlmann)
