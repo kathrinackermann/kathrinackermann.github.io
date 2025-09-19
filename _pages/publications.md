@@ -13,8 +13,17 @@ redirect_from:
 <table class="tg">
 <tbody>
 <tr>  
+<td width="5%">[26]</td>
+<td width="95%"> Claassen, Christopher, Sascha Göbel, Antonia Lang, Kathrin Ackermann,
+Petar Bankov, Kevin Brookes, Bartolomeo Cappellina, Christopher Carman,
+Markus Freitag, Rubén García Del Horno, Enrique Hernández, Guillem Rico,
+Sigrid Rossteutscher, Richard Traunmüller, Michael Webb, Sonja Zmerli, and
+Alina Zumbrunn. 2025. Measuring rural and urban consciousness in Europe.
+<em>Electoral Studies</em>, 95, 102912 <a href="https://doi.org/10.1016/j.electstud.2025.102912" target="_blank" rel="noopener noreferrer">doi:10.1016/j.electstud.2025.102912</a>.</td>    
+</tr>   
+<tr>  
 <td width="5%">[25]</td>
-<td width="95%"> Claassen, Christopher, <strong>Kathrin Ackermann</strong>, Eri Bertsou, Lucas Borba, Ryan E. Carlin, Amnon Cavari, Sirianne Dahlum, Sergiu Gherghina, Darren Hawkins, Yphtach Lelkes, Pedro C. Magalhães, Robert Mattes, Maurits J. Meijers, Anja Neundorf, Dániel Oross, Aykut Öztürk, Rodolfo Sarsfield, Darin Self, Ben Stanley, Tsung-han Tsai, Andrej Zaslove, and Elizabeth J. Zechmeister. 2024. Conceptualizing and measuring support for democracy: A new approach. <em>Comparative Political Studies</em>, online first <a href="https://doi.org/10.1177/00104140241259458" target="_blank" rel="noopener noreferrer">doi:10.1177/00104140241259458</a>.</td>    
+<td width="95%"> Claassen, Christopher, <strong>Kathrin Ackermann</strong>, Eri Bertsou, Lucas Borba, Ryan E. Carlin, Amnon Cavari, Sirianne Dahlum, Sergiu Gherghina, Darren Hawkins, Yphtach Lelkes, Pedro C. Magalhães, Robert Mattes, Maurits J. Meijers, Anja Neundorf, Dániel Oross, Aykut Öztürk, Rodolfo Sarsfield, Darin Self, Ben Stanley, Tsung-han Tsai, Andrej Zaslove, and Elizabeth J. Zechmeister. 2024. Conceptualizing and measuring support for democracy: A new approach. <em>Comparative Political Studies</em>, 58(6), 1171-1198 <a href="https://doi.org/10.1177/00104140241259458" target="_blank" rel="noopener noreferrer">doi:10.1177/00104140241259458</a>.</td>    
 </tr>   
 <tr>  
 <td width="5%">[24]</td>
