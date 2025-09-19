@@ -12,6 +12,19 @@ redirect_from:
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
+Ackermann, Kathrin,  , .  
+<tr>
+<td width="5%">[28]</td>
+<td width="95%"> <strong>Ackermann, Kathrin</strong>, Jonathan Mylius, Annette Haußmann, and Stefanie
+Wiloth. 2025. Living up to your own standards? Patterns of civic norms
+and volunteering in Germany. <em>Social Inclusion</em>, 13 <a href="https://doi.org/10.17645/si.10007" target="_blank" rel="noopener noreferrer">doi:10.17645/si.10007</a>.</td>    
+</tr>   
+<tr>
+<tr>  
+<td width="5%">[27]</td>
+<td width="95%"> Brandenstein, Nils,  <strong>Kathrin Ackermann</strong>, and Jan Rummel. 2025. The trouble with carbon footprint analysis in behavioral climate research. <em>Climatic
+Change</em>, 178, 57 <a href="https://doi.org/10.1007/s10584-025-03900-z" target="_blank" rel="noopener noreferrer">doi:10.1007/s10584-025-03900-z</a>.</td>    
+</tr>   
 <tr>  
 <td width="5%">[26]</td>
 <td width="95%"> Claassen, Christopher, Sascha Göbel, Antonia Lang, <strong>Kathrin Ackermann</strong>,
