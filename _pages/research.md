@@ -30,6 +30,7 @@ I am interested in the way citizens participate in politics and society and how 
 * 2020: Intergenerational Transmission of Citizenship Norms (U Heidelberg Excellence Strategy, PI)
 * 2017 - 2018: Citizenship Norms Revisited - Concept and Conditions (SNSF Early Postdoc.Mobility Grant, PI)
 
+
 ### 2. Social Structure and Politics
 Individuals are embedded in various social contexts. They belong to social groups and think and act politically within these structures. I am studying how their position within society (e.g. their spatial position as rural or urban dweller) relates to their political attitudes and behaviors.  
 
