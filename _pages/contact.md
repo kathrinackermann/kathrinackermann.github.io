@@ -11,10 +11,10 @@ redirect_from:
 
 Prof. Dr. Kathrin Ackermann
 
-University of Siegen
-Department of Social Sciences
-Adolf-Reichwein-Str. 2
-D-57076 Siegen
+University of Siegen  
+Department of Social Sciences  
+Adolf-Reichwein-Str. 2  
+D-57076 Siegen  
 
 Office: AR-H 513  
 Tel.: +49 (0) 271 740 2792  
