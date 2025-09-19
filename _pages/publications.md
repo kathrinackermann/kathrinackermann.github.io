@@ -12,7 +12,6 @@ redirect_from:
 <h3>Articles in Peer-Reviewed Journals</h3>
 <table class="tg">
 <tbody>
-Ackermann, Kathrin,  , .  
 <tr>
 <td width="5%">[28]</td>
 <td width="95%"> <strong>Ackermann, Kathrin</strong>, Jonathan Mylius, Annette Haußmann, and Stefanie
